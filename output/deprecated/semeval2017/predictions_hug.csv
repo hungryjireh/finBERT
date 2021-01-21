@@ -1,0 +1,1143 @@
+sentence,logit,prediction,sentiment_score
+Morrisons book second consecutive quarter of sales growth,[0.3862396  0.5783049  0.03545555],negative,-0.1920653
+IMI posts drop in first-quarter organic revenue; warns on full year,[0.00940316 0.97132677 0.01927009],negative,-0.9619236
+"Glencore to refinance its short-term debt early, shares rise",[0.54668844 0.25218773 0.20112388],positive,0.2945007
+EasyJet attracts more passengers in June but still lags Ryanair,[0.05725929 0.92307264 0.01966814],negative,-0.8658134
+Barclays 'bad bank' chief to step down,[0.01957107 0.71554846 0.26488042],negative,-0.6959774
+Bilfinger Industrial Services win Â£100m BP contract extension,[0.8813712  0.02049334 0.09813546],positive,0.8608779
+Bilfinger Industrial Services win Â£100m BP contract extension,[0.8813712  0.02049334 0.09813546],positive,0.8608779
+Barclays share price subdued as bank faces fresh forex probe,[0.07928243 0.82326514 0.09745251],negative,-0.7439827
+Centrica prepared for takeover approach - chairman,[0.03003073 0.03161338 0.9383559 ],neutral,-0.001582649
+Jim Armitage: Spare no tears as Glencore's bosses are paying such a small price,[0.07571514 0.20892534 0.71535957],neutral,-0.1332102
+"Barclays, Deutsche Bank Fight to Lift Profit Just Got Harder",[0.86825794 0.07248467 0.05925744],positive,0.79577327
+Kingfisher set to open another 200 Screwfix stores,[0.17884918 0.00866222 0.8124886 ],neutral,0.17018695
+Diageo sales disappoint as currency and comparatives leave bitter taste,[0.01878351 0.9660333  0.01518323],negative,-0.94724977
+Smith & Nephew recalls hip-replacement components,[0.04625071 0.47149783 0.48225147],neutral,-0.42524713
+Tesco is torn apart as watchdog finds supermarket repeatedly withheld payments from suppliers,[0.01153036 0.9488587  0.03961099],negative,-0.93732834
+Is Trouble Brewing At Legal & General Group Plc And Aviva plc?,[0.0161406  0.8943978  0.08946154],negative,-0.8782572
+Here's my 10-point plan to make Tesco great again,[0.22226451 0.00993573 0.76779974],neutral,0.21232878
+"Schroders posts FY profit beat, replaces CEO and chairman in board shake-up",[0.01486346 0.8222394  0.16289715],negative,-0.8073759
+BP Seeks to Get Back Some Gulf Oil Spill Business Payouts,[0.8613923  0.04357683 0.0950308 ],positive,0.8178155
+"Can Standard Chartered PLC, BP plc & Burberry Group plc Keep Charging?",[0.04604045 0.04620288 0.9077566 ],neutral,-0.000162438
+"UPDATE 1-BP reports worst annual loss in at least 20 years, cuts more jobs",[0.01635364 0.96474797 0.01889841],negative,-0.9483943
+Insurers: Admiral blows hot and cold but Aviva soars pre-Friends Life merger,[0.10661419 0.04022411 0.8531617 ],neutral,0.06639008
+"L&G still paying price for dividend cut during crisis, chief says",[0.58664185 0.14323547 0.27012268],positive,0.44340637
+Insurers: Admiral blows hot and cold but Aviva soars pre-Friends Life merger,[0.10661419 0.04022411 0.8531617 ],neutral,0.06639008
+"Whitbread eyes savings, price rises to offset wage rises",[0.31056187 0.02178278 0.66765535],neutral,0.28877908
+Britain's FTSE lifted by solid Kingfisher,[0.45253727 0.05230616 0.4951566 ],neutral,0.4002311
+Novo Nordisk and AstraZeneca seek tonic from key drug trials,[0.88876796 0.01140783 0.0998243 ],positive,0.8773601
+Kingfisher takeover of Mr Bricolage could hit a brick wall,[0.0210325  0.7929428  0.18602464],negative,-0.7719103
+BP wins right to appeal some Gulf spill damages claims,[0.8709     0.08229503 0.04680504],positive,0.788605
+Dixons Carphone profit boost on strong sales,[0.9180805  0.05236924 0.02955021],positive,0.8657113
+UK MORNING BRIEFING: Sky And Hargreaves Lansdown Bookend FTSE 100,[0.03189239 0.02544683 0.94266075],neutral,0.006445551
+Johnson Matthey profit lifted by metals unit sale,[0.89703417 0.06340083 0.03956507],positive,0.8336333
+"Barclays, Credit Suisse strike record deals with SEC, NY over dark pools",[0.76743114 0.06582353 0.1667454 ],positive,0.7016076
+UPDATE 1-Shire takes Q2 earnings pain for long-term gain,[0.3865061  0.54994696 0.06354691],negative,-0.16344085
+Drugmaker Shire to buy Baxalta for $32 billion after 6-month pursuit,[0.250798   0.0095289  0.73967314],neutral,0.24126908
+Standard Chartered considering move from UK,[0.0423268  0.03869786 0.9189753 ],neutral,0.003628939
+Philippines' San Miguel says to partner with Kirin if it bids for SABMiller's ...,[0.51550394 0.01011257 0.47438347],positive,0.50539136
+US cancels Arctic offshore lease sale after Shell drops interest,[0.01964979 0.8289538  0.15139644],negative,-0.809304
+Shire CEO steps up drive to get Baxalta board talking,[0.2116975  0.01352333 0.77477914],neutral,0.19817418
+UPDATE 1-Oil major BP freezes pay in 2015 to cut costs,[0.01480418 0.9588141  0.02638168],negative,-0.9440099
+Brazil Vale says will appeal ruling to block assets for dam burst,[0.05341135 0.65742594 0.28916267],negative,-0.6040146
+"BHP Billiton posts big loss, slashes dividend",[0.01057694 0.96360683 0.02581625],negative,-0.9530299
+Reaching New Depths: Glencore's $5bn Loss,[0.13556968 0.05541983 0.8090105 ],neutral,0.080149844
+UPDATE 2-EasyJet sees better first half on lower fuel bill,[0.9406448  0.03939189 0.01996338],positive,0.9012529
+Britain's FTSE advances as Royal Mail rises,[0.32740626 0.19111401 0.48147976],neutral,0.13629225
+CompaniesTesco sheds Harris & Hoole coffee shops,[0.04081171 0.02870416 0.9304842 ],neutral,0.012107551
+News FeedFTSE 100 movers: Standard Chartered lifted while AstraZeneca sinks,[0.49976337 0.06384595 0.43639067],positive,0.43591744
+Fitch: Citi's 1Q'15 Reports Much Improved Results,[0.9529035  0.02225603 0.02484044],positive,0.9306475
+Landlord Hammerson's NAV rises on increased leasing activity,[0.8451812  0.12579948 0.02901931],positive,0.71938175
+CompaniesMetro Bank raises Â£400m ahead of London listing,[0.09445699 0.04281656 0.8627264 ],neutral,0.05164043
+New Morrisons duo get former boss's support to diffuse investor tension,[0.7329742  0.00907313 0.2579527 ],positive,0.72390103
+WPP Q1 Revenue Rises Over 8% - Quick Facts,[0.9499664  0.02179882 0.02823475],positive,0.9281675
+Barclays raises 603 million pounds from African business share sale,[0.6932188  0.01207775 0.29470345],positive,0.6811411
+REFILE-Aviva Investors to move 34 bln euros in assets from AXA fund arm,[0.23594613 0.02043524 0.7436186 ],neutral,0.21551089
+Dividends Unleashed At Royal Bank of Scotland Group plc,[0.02164781 0.04969966 0.92865247],neutral,-0.028051846
+"Irish Said Chasing Standard Chartered, RBS as Brexit Vote Nears",[0.04364129 0.02908989 0.92726886],neutral,0.014551397
+"EXCLUSIVE-BP, China's CNPC to unveil oil alliance - sources",[0.16206577 0.00989953 0.82803464],neutral,0.15216625
+RBS and Barclays shares temporarily suspended amid heavily losses,[0.01038635 0.90912753 0.08048613],negative,-0.8987412
+BP sees Q1 earnings slide as low oil prices take their toll,[0.00866689 0.9691273  0.02220582],negative,-0.9604604
+Johnson Matthey revs up on clean air drive,[0.8510609  0.01804177 0.1308973 ],positive,0.83301914
+Tesco boss urges rethink on minimum wage and business rates,[0.10050173 0.15527938 0.74421895],neutral,-0.054777652
+Is It Worth Investing In Tesco PLC And Prudential plc Now?,[0.06428485 0.01258629 0.9231288 ],neutral,0.051698565
+RBS will reportedly appoint Howard Davies as its next chairman,[0.04476153 0.01908226 0.9361563 ],neutral,0.025679272
+UPDATE 1-Seattle flotilla protests Shell's Arctic drilling plans,[0.01494479 0.94235504 0.04270019],negative,-0.92741024
+Petrofac books further Â£30m cost for Shetland gas terminal delays,[0.19994867 0.0472271  0.7528243 ],neutral,0.15272157
+G4S suspends workers at UK youth centre over allegations of unnecessary force,[0.01195125 0.9491637  0.03888508],negative,-0.9372124
+TalkTalk hires BAE Systems to investigate cyber attack,[0.09770557 0.03329541 0.86899906],neutral,0.06441016
+Osborne extends Lloyds sell-off plan,[0.04865139 0.26857474 0.6827739 ],neutral,-0.21992335
+UPDATE 1-Dairy Crest loses a third of Morrisons milk contract,[0.00887441 0.95446926 0.03665633],negative,-0.94559485
+CompaniesLord Livingston joins Dixons Carphone,[0.05205497 0.04876031 0.89918476],neutral,0.003294654
+Tesco names Deloitte as new auditor after accounting scandal,[0.02397882 0.13956235 0.8364588 ],neutral,-0.11558354
+World's banks may halve jobs and branches within 10 years - Barclays ex-boss,[0.02304094 0.8665076  0.11045147],negative,-0.84346664
+Severn Trent share price rises as first half profit inches up as customer ...,[0.9420559  0.03433229 0.02361195],positive,0.9077236
+Clinigen chosen by AstraZeneca to manage access programme for next ...,[0.16013159 0.00825851 0.8316099 ],neutral,0.15187308
+Valeant's Pearson says timing of return uncertain,[0.03220009 0.02640265 0.94139725],neutral,0.005797435
+Aviva suspends trading in Â£1.8bn UK property fund,[0.00849446 0.94005793 0.05144758],negative,-0.9315635
+Horizonte acquires neighbouring Glencore nickel property in Brazil,[0.11108916 0.01072611 0.8781848 ],neutral,0.100363046
+Indy future in doubt as Johnston Press lines up deal for 'i',[0.27934444 0.55267096 0.16798462],negative,-0.27332652
+Glaxo's ViiV Healthcare Signs China Manufacturing Deal With Desano,[0.78213817 0.01543318 0.20242864],positive,0.766705
+"BHP Billiton half-year profit falls, beats forecasts",[0.01090018 0.9694728  0.01962692],negative,-0.9585726
+Royal Dutch Shell to Buy BG Group for Nearly $70 Billion,[0.09074908 0.01101709 0.8982339 ],neutral,0.079731986
+Barclays to speed up cost-cuts after new mis-selling hit,[0.77704096 0.17230438 0.05065459],positive,0.60473657
+"CEOs of BPM, UBI meet Italy econ minister as M&A talk heats up",[0.11658467 0.03785647 0.8455588 ],neutral,0.07872819
+HSBC Hit by Fresh Details of Tax Evasion Claims,[0.03487761 0.858136   0.10698635],negative,-0.8232584
+"CaixaBank, dos Santos Agree on Plan for BPI Angola Exposure",[0.27925497 0.01014397 0.7106011 ],neutral,0.269111
+"BPI Says Caixabank, Isabel dos Santos Reach Agreement Over Angola Exposure",[0.9366662 0.015388  0.0479458],positive,0.9212782
+Wolseley says Nicholls won't join as finance chief,[0.02101343 0.13459389 0.84439266],neutral,-0.11358045
+UK lawmakers warn Royal Mail against further price hikes,[0.16629355 0.79388756 0.03981884],negative,-0.627594
+StanChart and RBS struggle in Bank of England stress tests,[0.0227333  0.94178593 0.03548082],negative,-0.91905266
+StanChart may see white knight takeover on painful recovery - CLSA,[0.03051313 0.5145541  0.45493275],negative,-0.48404095
+AstraZeneca suffers setback after drug fails to treat eye cancer,[0.03081025 0.958527   0.01066262],negative,-0.9277168
+News FeedFTSE 100 movers: Standard Chartered lifted while AstraZeneca sinks,[0.49976337 0.06384595 0.43639067],positive,0.43591744
+Retail giant Kingfisher reports 'solid' start to the year,[0.94630045 0.02795193 0.02574762],positive,0.9183485
+Unilever Continues to Battle Soft Demand,[0.92694527 0.02567657 0.04737823],positive,0.9012687
+Fresnillo Production Surges But Profit Hit By Lower Prices,[0.5202909  0.4495766  0.03013249],positive,0.070714325
+Helge Lund moves to BG a month early,[0.03190756 0.03102253 0.93706995],neutral,0.000885027
+"Tesco set to sell Kipa, Giraffe businesses - Sky News",[0.06417585 0.01301571 0.9228084 ],neutral,0.051160146
+"RBS warns of higher misconduct charges, obstacles ahead",[0.01437544 0.9515264  0.03409825],negative,-0.93715096
+"DBS, Julius Baer emerge as potential bidders for Barclays Asia wealth unit ...",[0.4843028  0.01074725 0.5049499 ],neutral,0.47355554
+Standard Life slips as Greek worries peg back Britain's FTSE,[0.02484565 0.9517764  0.02337802],negative,-0.9269307
+Glencore sells agri unit stake for $2.5 billion to Canadian pension fund,[0.03893414 0.02005646 0.94100946],neutral,0.01887768
+FCA bans former RBS Libor submitter,[0.01322449 0.89166254 0.09511289],negative,-0.87843806
+AB InBev's Latest Bid Said Unlikely to Win SABMiller's Approval,[0.31217313 0.03577436 0.65205246],neutral,0.27639878
+Standard Chartered Not Raising Capital Yet As Dividend Cut,[0.05077774 0.02800826 0.92121404],neutral,0.022769477
+"Tesco set to sell Kipa, Giraffe businesses - Sky News",[0.06417585 0.01301571 0.9228084 ],neutral,0.051160146
+United Utilities FY profit up 3.5%; to boost capex,[0.951679   0.02055363 0.02776728],positive,0.93112534
+Sale of Tesco's Clubcard business to WPP on the verge of collapse,[0.01972006 0.19396205 0.78631794],neutral,-0.17424199
+UK's Osborne may sell state-owned RBS shares at a loss -paper,[0.0222592 0.3074126 0.6703282],neutral,-0.2851534
+Tesco Sale Is Asia's Biggest Private-Equity Deal,[0.10240073 0.008473   0.8891263 ],neutral,0.093927726
+Industry NewsWolseley confident in reslilience amid mixed markets,[0.9437976  0.02312879 0.03307359],positive,0.9206688
+Japan's Nikkei lands Financial Times in $1.3 billion deal,[0.41170686 0.19354218 0.39475098],positive,0.21816468
+UPDATE: Peter Long To Be Chairman Of Both Royal Mail And TUI AG,[0.03031916 0.01901985 0.950661  ],neutral,0.011299303
+UK regulators license BAT e-cigarette as quit-smoking medicine,[0.02591627 0.03960889 0.9344749 ],neutral,-0.013692627
+"Aviva, M&G suspend property funds as investors panic",[0.02491037 0.22990087 0.7451888 ],neutral,-0.20499049
+British American Tobacco drops and sues PwC over pollution scandal,[0.01285759 0.9316697  0.05547259],negative,-0.9188121
+Aberdeen's shares slide as net outflows accelerate,[0.00748366 0.9687556  0.02376068],negative,-0.96127194
+REFILE-Hikma and Barclays help Britain's FTSE to climb higher,[0.93543285 0.01646455 0.04810257],positive,0.9189683
+"Kraft, Cadbury's and Britvic in Total Recall: how pulling a product affects profit",[0.02449456 0.263924   0.71158147],neutral,-0.23942944
+Standard Chartered share price: Aberdeen CEO would back potential capital increase,[0.08830611 0.15700142 0.7546925 ],neutral,-0.068695314
+Severn Trent share price jumps as Canadian investor renews pursuit of utility,[0.39834973 0.3533448  0.24830551],positive,0.045004934
+France raises concerns over proposed LSE-Deutsche Boerse deal,[0.01956884 0.9258749  0.05455622],negative,-0.906306
+Bunzl blames weakness in United States for first-half revenue slowdown,[0.01057609 0.96605474 0.02336921],negative,-0.95547867
+Tesco criticised for 'disgraceful' advert showing domestic worker being slapped,[0.01871478 0.94017583 0.04110939],negative,-0.92146105
+Tushar Morzaria is bookies' favourite to be new Barclays chief executive,[0.03409322 0.03541883 0.9304879 ],neutral,-0.001325607
+CompaniesG4S claims 'positive' start to the year,[0.94805694 0.02829454 0.02364846],positive,0.9197624
+"UPDATE 3-BP settles oil spill-related claims with Halliburton, Transocean",[0.07503267 0.31459194 0.61037534],neutral,-0.23955926
+Shares in BAE Systems hit 10-month high on rating upgrade,[0.9371667  0.01772836 0.04510493],positive,0.9194383
+GE to Sell Majority Stake in Bank BPH's Core Bank to Alior Bank,[0.0359286  0.01635657 0.94771487],neutral,0.019572027
+Royal Dutch Shell plc: Shell Updates on Alaska Exploration,[0.07027476 0.01563523 0.91409004],neutral,0.054639526
+City spirits sink after Diageo comes up short with sales slide,[0.02643904 0.95336586 0.02019517],negative,-0.92692685
+Tesco sales recover as focus returns to core business,[0.8846932  0.091947   0.02335978],positive,0.7927462
+London Stock Exchange unit in talks to operate Plato venue,[0.0812952  0.01165835 0.9070465 ],neutral,0.06963685
+ARM Holdings plc Partners With International Business Machines Corp. To Drive ...,[0.87355244 0.00763317 0.11881442],positive,0.8659193
+GSK joins China trade push as UK trumpets healthcare deals,[0.27195382 0.02960089 0.69844526],neutral,0.24235293
+"Goldman Sachs, Barclays, HSBC downplay Brexit threat",[0.03304875 0.36864322 0.59830797],neutral,-0.33559448
+HSBC marks muted 150th birthday party with grain of rice sculptures,[0.08807928 0.02390193 0.8880188 ],neutral,0.06417736
+Barclays appoints JPMorgan's Paul Compton as new COO,[0.03710197 0.02701177 0.93588626],neutral,0.010090195
+Standard Chartered Shares Jump Most Since '12 After Upgrades,[0.5856966  0.27360323 0.14070009],positive,0.31209335
+Italy Probes Shell's Role in Purchase of Nigerian Oil Block,[0.0643703  0.18507259 0.7505571 ],neutral,-0.12070228
+Shropshire and Mid Wales trains to be hit again in new strike by Arriva drivers,[0.01207342 0.95309335 0.03483317],negative,-0.94101995
+Friends Life lifts profits 38% and hikes divi ahead of proposed Aviva takeover,[0.57241464 0.37624326 0.05134213],positive,0.19617137
+Randgold profit hit by poor gold price but dividend still increases,[0.07474257 0.9039152  0.02134215],negative,-0.8291727
+AstraZeneca does US$770mln anaesthetic deal,[0.23596177 0.021632   0.7424062 ],neutral,0.21432976
+AB InBev's Latest Bid Said Unlikely to Win SABMiller's Approval,[0.31217313 0.03577436 0.65205246],neutral,0.27639878
+ITV share price jumps on report of Comcast's NBCUniversal bidding to takeover ...,[0.02991736 0.9157439  0.05433867],negative,-0.8858265
+Diageo Sells Ryder Cup Venue Gleneagles Hotel to Ennismore Group,[0.05338096 0.0143577  0.93226135],neutral,0.039023258
+Pearson to cut 4000 jobs as it warns on profits,[0.01849541 0.94881296 0.0326916 ],negative,-0.9303175
+"FDA panel backs safety updates for AstraZeneca, Takeda drugs",[0.04321812 0.66953903 0.28724277],negative,-0.6263209
+LSE-Deutsche Boerse merger would signal end to exchange mega-deals,[0.03458137 0.4625127  0.5029059 ],neutral,-0.42793134
+"Intertek Hit By Pound Strength, Oil & Gas Slowdown; Still Ups Dividend",[0.12922016 0.83930606 0.03147383],negative,-0.71008587
+Tesco says recovery plan working after profit collapse,[0.7111299  0.03339419 0.25547588],positive,0.6777357
+Kinder Morgan and BP Form Joint Venture Limited Liability Company to Purchase ...,[0.3790577  0.01175669 0.60918564],neutral,0.36730102
+Shell and BG Shareholders to Vote on Deal at End of January,[0.06907439 0.0134676  0.91745794],neutral,0.05560679
+"Intercontinental Hotels, Starwood held early deal talks - FT",[0.0753249  0.01205592 0.91261923],neutral,0.063268974
+Warren Buffett's Berkshire Hathaway buys stake in Apple,[0.04389655 0.01910776 0.93699574],neutral,0.024788791
+Sunday Papers: Shire told to raise its offer by Baxalta investors,[0.03511721 0.3218683  0.64301455],neutral,-0.2867511
+"Britain's FTSE bounces back, Mondi and Barratt lead",[0.79782546 0.06551389 0.13666071],positive,0.73231155
+Glencore slashes 2015 capex budget as annual profits slip 2%,[0.00930443 0.9727836  0.01791195],negative,-0.96347916
+Anheuser-Busch InBev Increases Offer for Rival SABMiller,[0.8012269  0.09328792 0.1054851 ],positive,0.70793897
+Sainsbury CFO Rogers to Replace Home Retail CEO Walden,[0.02773136 0.0693244  0.9029442 ],neutral,-0.041593045
+"UPDATE 2-Exchanges, Barclays win dismissal of US high-frequency trading case",[0.22064582 0.31695408 0.46240014],neutral,-0.09630826
+MarketsUS industrials lag as Barclays dims view,[0.03694135 0.8942617  0.06879692],negative,-0.85732037
+Zurich Insurance Considering Offer for UK Rival RSA Insurance,[0.16015999 0.0102804  0.8295596 ],neutral,0.14987959
+US DOJ antitrust unit subpoenas Mylan over pricing of doxycycline,[0.01461884 0.9107982  0.07458294],negative,-0.8961794
+AstraZeneca sells US gout drug rights to Ironwood for up to $265 million,[0.14435169 0.00877132 0.846877  ],neutral,0.13558038
+"Shell, Chevron Await LNG's Return From `Pause Mode'",[0.05065458 0.07660262 0.8727428 ],neutral,-0.02594804
+Companies raise less money on London Stock Exchange in 2015,[0.02421735 0.5907041  0.3850786 ],negative,-0.5664867
+Shell and BG Shareholders to Vote on Deal at End of January,[0.06907439 0.0134676  0.91745794],neutral,0.05560679
+Glencore shares rally after miner hits back,[0.32052296 0.6024909  0.07698612],negative,-0.28196794
+ABN Amro: Bank that brought down RBS poised for return to the market,[0.22341973 0.08132412 0.6952562 ],neutral,0.14209561
+Verizon and AT&T accused of hurting rivals,[0.01495427 0.90202737 0.08301833],negative,-0.8870731
+ARM swings to profit in fourth quarter,[0.777676   0.18310276 0.03922134],positive,0.59457326
+Johnson Matthey profit falls but dividend rises,[0.08182269 0.8987133  0.01946393],negative,-0.8168906
+Auto Trader share price surges as company floats on LSE,[0.11759838 0.8457013  0.03670036],negative,-0.7281029
+ConAgra Names Former Hillshire Farms CEO Connolly to Top Post,[0.04753734 0.02630134 0.92616135],neutral,0.021235999
+Hargreaves Landown slides on trading update,[0.02687077 0.09859323 0.87453604],neutral,-0.07172246
+"Sainsbury's, Asda, Tesco and Morrisons will all cut petrol prices as oil falls ...",[0.01044768 0.93843955 0.05111269],negative,-0.92799187
+"WPP, World's Largest Ad Agency, Reports Strong 2015 Growth",[0.95119005 0.02419439 0.02461554],positive,0.92699564
+Shell Targets Gains From Brazil to LNG With Takeover of BG Group,[0.89426005 0.01239662 0.09334337],positive,0.8818634
+Four former Barclays bankers jailed over Libor,[0.01654799 0.91723    0.06622198],negative,-0.90068203
+Tesco Cut to Junk at Moody's on Concern Revival to Take Time,[0.02493176 0.9489544  0.02611384],negative,-0.9240227
+LPC-Glencore launches refinancing of $8.45billion loan,[0.4882773  0.01623468 0.49548808],neutral,0.47204262
+"London open: Taylor Wimpey and Ashtead drive markets higher, Barclays falls",[0.77425086 0.02350461 0.20224452],positive,0.75074625
+Easyjet targets business travellers with new perks,[0.20562848 0.00960111 0.7847704 ],neutral,0.19602737
+BP joins forces with Det Norske in Norway,[0.4017429  0.01898716 0.5792699 ],neutral,0.38275576
+Shire proposes $30 bln all-share tie-up with Baxalta,[0.08466083 0.00994665 0.90539247],neutral,0.07471418
+Tesco sales rise shows tentative recovery continues,[0.92644763 0.05306027 0.02049216],positive,0.87338734
+Valeant Names Interim Leader as CEO Remains Hospitalized,[0.02017819 0.4255819  0.55424   ],neutral,-0.4054037
+AstraZeneca weighing up Acerta bid to secure blood cancer drug,[0.73688227 0.0223418  0.24077594],positive,0.7145405
+BP asks for lower fine in penalty phase of Gulf spill trial,[0.35045972 0.24620683 0.40333346],neutral,0.10425289
+MarketsShire up 2.5% and Baxalta up 6% on $32bn deal,[0.9412211  0.0164274  0.04235146],positive,0.9247937
+"Warren Buffett's Awesome Feat at Berkshire Hathaway, Revisited",[0.10068388 0.01458929 0.8847268 ],neutral,0.08609459
+Lloyds Banking Group's share price lifts amid reports bank is poised to axe hundreds of UK jobs,[0.68375134 0.27617714 0.04007154],positive,0.4075742
+SSE cuts gas prices by 4.1% to become fifth of 'Big Six' providers to slash energy ...,[0.93895817 0.02434539 0.03669639],positive,0.91461277
+Silicon Fen' champion brings exacting approach to Rolls-Royce,[0.16671346 0.01008974 0.8231968 ],neutral,0.15662372
+Tesco Said to Discuss Central and Eastern European Unit Sale,[0.06114005 0.01161682 0.9272431 ],neutral,0.049523227
+Glencore launches refinancing of credit line,[0.15689978 0.01704641 0.8260538 ],neutral,0.13985337
+Should You Follow Berkshire Hathaway Into Apple Stock?,[0.0353905  0.01930847 0.94530106],neutral,0.016082024
+UK WINNERS & LOSERS: Aviva And Friends Life Lead FTSE 100 Gainers,[0.16717285 0.01721524 0.81561196],neutral,0.1499576
+FDA approves Shire's Vyvanse for binge-eating disorder,[0.5704231  0.02116702 0.4084099 ],positive,0.5492561
+Entertainment One dispels ITV takeover rumours,[0.08504625 0.09109556 0.8238582 ],neutral,-0.006049313
+"Despite sales growth, UK's Tesco cautions recovery to be bumpy",[0.80564237 0.1703709  0.02398671],positive,0.63527143
+Oil Giant Shell to Cut Around 2800 Jobs Amid BG Takeover,[0.01110427 0.9649476  0.02394819],negative,-0.9538433
+BAE Systems banks on US defence spending to fix sales slide,[0.5297423  0.3293773  0.14088035],positive,0.200365
+UK Christmas power demand to be lowest in 16 years â€“ National Grid,[0.01554853 0.8528588  0.13159272],negative,-0.83731025
+CompaniesCompass serves up half year profit rise,[0.8290124  0.07165579 0.09933189],positive,0.7573566
+UK MORNING BRIEFING: Sky And Hargreaves Lansdown Bookend FTSE 100,[0.03189239 0.02544683 0.94266075],neutral,0.006445551
+InterContinental Hotels Group share price climbs on $1.5bn special dividend,[0.59654087 0.09436613 0.309093  ],positive,0.50217474
+AstraZeneca in Talks to Buy Cancer Drug Developer Acerta Pharma,[0.2696592  0.01137174 0.7189691 ],neutral,0.25828746
+Amazon to attack UK grocery market with Morrisons deal,[0.01944882 0.75165796 0.22889315],negative,-0.73220915
+Tesco made a bit of a crucial error in this promotion for Ramadan...,[0.03837879 0.81338274 0.14823847],negative,-0.77500397
+"Falling oil prices hurt Hunting, Weir Group",[0.03497647 0.9001792  0.06484437],negative,-0.8652027
+Morning Agenda: Shire's Deal for NPS,[0.11368106 0.01146248 0.8748564 ],neutral,0.10221858
+AstraZeneca wins FDA approval for key new lung cancer pill,[0.817537   0.01867519 0.16378778],positive,0.7988618
+FCA set to fine Lloyds record Â£100m over PPI,[0.31728232 0.05863825 0.62407947],neutral,0.25864407
+"Barclays's Next CEO Should Be Investment Banker, Aberdeen Says",[0.02841206 0.02254676 0.9490411 ],neutral,0.005865308
+RBS and Barclays shares temporarily suspended amid heavily losses,[0.01038635 0.90912753 0.08048613],negative,-0.8987412
+Shire to buy NPS for $5.2 billion to boost rare disease drugs,[0.5271209  0.01062887 0.46225026],positive,0.516492
+Tesco's boardroom clearout continues,[0.02964012 0.81508124 0.15527864],negative,-0.7854411
+BHP Billiton says no settlement yet on Brazil dam disaster,[0.03772441 0.19585577 0.76641977],neutral,-0.15813136
+Arm buoyed by race to build the internet of things,[0.5737886  0.01559905 0.4106124 ],positive,0.5581895
+AstraZeneca diabetes drug combination faces delay after FDA rebuff,[0.04249482 0.51949656 0.43800864],negative,-0.47700173
+Amazon's grocery deal with Morrisons is only the beginning,[0.04781797 0.01628876 0.9358933 ],neutral,0.031529214
+BAE Systems's sales boosted by European Typhoon and currencies,[0.954061   0.01623583 0.02970316],positive,0.93782514
+CompaniesAberdeen Asset Mgt reports 10th consecutive quarterly outflows,[0.24108851 0.7077112  0.0512003 ],negative,-0.4666227
+Barclays CEO poaches risk head from JP Morgan,[0.03887535 0.5324022  0.42872238],negative,-0.49352688
+BP signs $12 billion energy deal in Egypt,[0.25410998 0.01322576 0.7326643 ],neutral,0.24088421
+Shire says internal synergy goals from Baxalta deal higher,[0.18097518 0.00904965 0.80997515],neutral,0.17192554
+WPP wins race for 'programmatic buying' agency Essence Digital,[0.72361594 0.01448142 0.26190263],positive,0.7091345
+Drugmaker Shire to buy Baxalta for $32 billion after 6-month pursuit,[0.250798   0.0095289  0.73967314],neutral,0.24126908
+AstraZeneca investment eats into profit,[0.12099633 0.4336043  0.4453993 ],neutral,-0.31260797
+"AstraZeneca bags another cancer drug deal, this time with Inovio",[0.62342465 0.01684354 0.35973185],positive,0.6065811
+CompaniesCentrica shares drop 7% amid capital raise,[0.00952433 0.96687573 0.02359998],negative,-0.9573514
+Miners Meltdown as BHP to Rio Tinto Sink in Commodities Rout,[0.03426082 0.90279394 0.06294522],negative,-0.86853313
+UPDATE 1-Britain's Tullow says makes new oil find in Kenya,[0.8713823  0.02024678 0.10837101],positive,0.8511355
+Britain's power supplies enough to meet winter demand - National Grid,[0.08983952 0.01778678 0.8923737 ],neutral,0.07205273
+Barclays PLC & Lloyds Banking Group PLC Are The 2 Banks I'd Buy Today,[0.05383392 0.01272318 0.93344295],neutral,0.04111074
+UPDATE 3-Buffett's Berkshire raises oil bet with Kinder Morgan stake,[0.21976794 0.02577347 0.7544586 ],neutral,0.19399448
+"UPDATE: EasyJet Passenger Numbers, Aer Lingus Traffic Up In February",[0.8923773  0.03580173 0.07182094],positive,0.8565756
+PRESS: US High-Frequency Lawsuit Against Barclays Dismissed - Reuters,[0.03468025 0.51478595 0.4505338 ],negative,-0.4801057
+Shell CEO van Beurden's remuneration fell in 2015,[0.01325423 0.96481144 0.02193432],negative,-0.9515572
+"Aberdeen AM posts H1 outflows, says conditions to remain challenging",[0.14359124 0.82988864 0.02652019],negative,-0.6862974
+"Kraft, Cadbury's and Britvic in Total Recall: how pulling a product affects profit",[0.02449456 0.263924   0.71158147],neutral,-0.23942944
+Shell seeks to remove Greenpeace activists from oil rig,[0.02184924 0.8220102  0.15614054],negative,-0.800161
+"UPDATE 3-BP settles oil spill-related claims with Halliburton, Transocean",[0.07503267 0.31459194 0.61037534],neutral,-0.23955926
+Pearson Forecasts Rising Earnings as Reorganization Pays Off,[0.9491597  0.02388391 0.02695641],positive,0.92527574
+Morrisons faces festive sales test,[0.8520438  0.09525555 0.05270072],positive,0.75678825
+Aviva shuts Friends Life head office in rapid integration move,[0.00798152 0.9339158  0.05810269],negative,-0.92593426
+Tesco to pay Â£8m to settle class-action lawsuit after accounting scandal,[0.04297545 0.86583734 0.09118718],negative,-0.8228619
+UPDATE 3-Stifel to buy former Lehman brokerage from Barclays,[0.06463343 0.01724742 0.9181192 ],neutral,0.04738601
+CompaniesRoyal Mail stake sale delivers Â£750m for taxpayer,[0.3281804  0.01038185 0.66143775],neutral,0.31779855
+NYSE owner ICE may gatecrash Deutsche Boerse-LSE merger,[0.01861575 0.5809399  0.40044436],negative,-0.56232417
+Spain's Caixabank launches new takeover bid for Banco BPI,[0.19330762 0.01284469 0.79384774],neutral,0.18046294
+Former Aviva Investors analyst Mothahir Miah banned and fined Â£139000 by FCA ...,[0.01149999 0.9471604  0.04133946],negative,-0.9356604
+ARM shrugs off smartphone slowdown as newer designs win share,[0.16674641 0.74008626 0.0931673 ],negative,-0.5733398
+UPDATE 1-Petrofac posts net loss hurt by Shetland Islands project costs,[0.02146099 0.96871734 0.00982174],negative,-0.9472563
+Do it for me' trend underpins UK sales growth at Kingfisher,[0.93014526 0.03258013 0.03727469],positive,0.8975651
+RBS invites pitches for broker role ahead of privatisation - sources,[0.0663581  0.01548053 0.9181614 ],neutral,0.050877564
+Bunzl delivers small profit increase for 2014,[0.9467412  0.02554706 0.02771171],positive,0.92119414
+AB InBev Holds Talks With Regulators About California Deals,[0.06657349 0.02162154 0.91180503],neutral,0.04495194
+CompaniesMorrison evicted from FTSE 100 as Worldpay joins,[0.06560741 0.09229523 0.84209734],neutral,-0.026687823
+Barclays denies deferred prosecution offer from SFO,[0.10454392 0.08249927 0.8129568 ],neutral,0.022044651
+LONDON MIDDAY BRIEFING: Kingfisher's French Expansion Hits The Rocks,[0.34708655 0.16296525 0.48994815],neutral,0.1841213
+"PRESS: Serco Set To Appoint Roy Gardner, Ex-Centrica, As Chairman - FT",[0.03012143 0.03018745 0.9396912 ],neutral,-6.60E-05
+Tesco chief excutive Dave Lewis sees 'encouraging signs' despite profits tumble,[0.90709776 0.06996597 0.02293633],positive,0.8371318
+"EasyJet ""Sneakairs"": Airline is testing smart shoes to help customers explore destinations",[0.22141355 0.00938969 0.76919675],neutral,0.21202387
+The Coca-Cola Company and Coca-Cola FEMSA to Acquire AdeS Soy-Based Beverage Business From Unilever,[0.12049682 0.00839916 0.871104  ],neutral,0.11209766
+SSE faces profiteering accusations despite 5.3% cut in gas charges,[0.0329856  0.9515945  0.01541989],negative,-0.9186089
+CompaniesRBS pulls a surprise: a 27% jump in profits,[0.9304317  0.02660718 0.04296103],positive,0.90382457
+"Shell, Chevron Await LNG's Return From `Pause Mode'",[0.05065458 0.07660262 0.8727428 ],neutral,-0.02594804
+Barclays settles with US investors over Libor manipulation,[0.12856519 0.68586636 0.18556847],negative,-0.55730116
+"Tesco says recovery on track, asks investors to be patient",[0.70268273 0.01209276 0.28522456],positive,0.69058996
+"Should you buy Associated British Foods plc, Great Portland Estates plc and Dunelm Group plc following today's news?",[0.04211333 0.01508673 0.9428    ],neutral,0.027026609
+"UPDATE 1-Nomura, RBS must pay $806 mln in mortgage bond case-US judge",[0.03117906 0.6115473  0.35727367],negative,-0.5803682
+National Grid profit up 15%; gas sale on track,[0.94746053 0.02132622 0.03121319],positive,0.9261343
+AstraZeneca chases Acerta to secure next cancer drug winner,[0.78356737 0.00886279 0.20756987],positive,0.7747046
+"Prudential capital ratio beats forecasts, confirms UK head",[0.5421633  0.15886918 0.29896754],positive,0.38329414
+CompaniesEx-City watchdog Turner joins Prudential board,[0.03021255 0.07755509 0.89223236],neutral,-0.04734254
+"Militants fire rockets at Algerian BP/Statoil gas plant, no casualties",[0.02788681 0.83587813 0.13623503],negative,-0.8079913
+BG Group Still Happy With Shell's $70 Billion Offer,[0.877383   0.01479586 0.10782116],positive,0.86258715
+CompaniesAstraZeneca wins nod for 'blockbuster' hopeful,[0.7643132  0.02621891 0.20946783],positive,0.73809433
+Shell to Lay Off Another 2200 Staff,[0.00891741 0.94411075 0.04697188],negative,-0.93519336
+Carnival Corporation and China Merchants Group Sign Memo of Understanding ...,[0.77352613 0.01761255 0.20886122],positive,0.7559136
+CompaniesDiageo stays neutral on India boardroom turmoil,[0.03972895 0.10392161 0.8563494 ],neutral,-0.06419265
+Tesco to 'axe 10000 jobs' in 'simplification' drive to cut costs by 30 per cent,[0.91116166 0.02775708 0.06108115],positive,0.88340455
+Barclays poised to replace Sir Mike Rake as he heads for exit,[0.0347595  0.07941542 0.8858251 ],neutral,-0.04465592
+Tesco bans sugary drinks in â€œchildhood obesity driveâ€퀀,[0.03081789 0.2520022  0.7171799 ],neutral,-0.22118431
+Tata Steel working with StanChart for UK unit sale - source,[0.05465597 0.01600112 0.9293429 ],neutral,0.038654853
+Sainsbury's share price: Grocer launches click-and-collect,[0.02570292 0.05417579 0.9201213 ],neutral,-0.028472878
+AO World shares tumble on profit warning,[0.01261848 0.9505501  0.03683151],negative,-0.9379316
+Shell Targets Gains From Brazil to LNG With Takeover of BG Group,[0.89426005 0.01239662 0.09334337],positive,0.8818634
+Glencore tells investors it is on track to reduce debt: Barclays,[0.33655813 0.03531302 0.6281288 ],neutral,0.30124512
+Whitbread boss Andy Harrison defends sales fall as 'just a blip',[0.01176526 0.966169   0.02206571],negative,-0.95440376
+Borealis Infrastructure putting together new Severn Trent bid,[0.24899386 0.0088043  0.74220186],neutral,0.24018955
+AstraZeneca sells US drug rights to Perrigo for $380 mln,[0.10479693 0.01089103 0.88431203],neutral,0.0939059
+Aggreko 2015 Profit Declines - Quick Facts,[0.01166552 0.949685   0.0386495 ],negative,-0.93801945
+Pearson lags as UK's FTSE slips off record high,[0.01604765 0.96563005 0.01832227],negative,-0.9495824
+RBS hands Â£3.3m of shares to top staff,[0.03846683 0.01885488 0.9426782 ],neutral,0.01961195
+Glencore sells agriculture stake for $2.5bn,[0.03014933 0.01709461 0.952756  ],neutral,0.013054714
+Barclays says has spent $150 million on US 'living will',[0.16434298 0.00965989 0.8259971 ],neutral,0.1546831
+RBS share price: Group plans to slash 600 jobs,[0.0079498  0.9636102  0.02844008],negative,-0.9556604
+TRLPC - CRH backs Lafarge Holcim asset buy with 6.5 bln euro bridge loan,[0.82020473 0.02548278 0.15431242],positive,0.79472196
+"Eurozone bank lending continues to recover, slowly, Barclays says",[0.94839215 0.03018829 0.02141963],positive,0.91820383
+RBS breaks with past by tearing investment bank apart,[0.27923307 0.15841678 0.56235015],neutral,0.12081629
+Aberdeen Asset Management Gains Foothold In China,[0.79144967 0.03828872 0.17026156],positive,0.75316095
+BP to pay investors $175m over Gulf spill claims,[0.10232326 0.73575723 0.16191946],negative,-0.63343394
+Persimmon sees post-election pick-up,[0.5032394  0.03745906 0.45930153],positive,0.46578035
+Fewer multi-buys hurt Sainsbury's market share,[0.01123412 0.9694435  0.01932243],negative,-0.9582094
+Australia clears AB Inbev's $100 billion SABMiller buyout plan,[0.26870966 0.02131353 0.7099768 ],neutral,0.24739613
+"London open: Taylor Wimpey and Ashtead drive markets higher, Barclays falls",[0.77425086 0.02350461 0.20224452],positive,0.75074625
+AstraZeneca profit down as sales of stalwarts fade,[0.01764125 0.96679115 0.01556763],negative,-0.9491499
+Tesco Mobile Partners with Unlockd to Change the Way Consumers Use and Pay for Their Mobile Phones,[0.3829606 0.0098081 0.6072313],neutral,0.3731525
+Associated British Foods helps FTSE to rebound,[0.7810446  0.0105135  0.20844185],positive,0.7705311
+Why Shell Cut Ties to Conservative Lobby Group Over Climate Change,[0.06808011 0.4171401  0.5147798 ],neutral,-0.34906
+Johnson Matthey sells research chemicals unit to Thermo Scientific,[0.02905015 0.02780081 0.94314903],neutral,0.001249345
+Tesco rebounds as buyers sense a bargain,[0.23235187 0.708971   0.05867713],negative,-0.47661915
+"Valeant CEO Returns From Leave, Company Withdraws Guidance",[0.01412099 0.8757294  0.11014968],negative,-0.8616084
+AstraZeneca shares climb 3% as drug maker ups profits forecasts,[0.90190744 0.06111807 0.0369745 ],positive,0.8407894
+"FastJet slams EasyJet founder Stelios for going public, is ""taking legal advice"" over letter about contractual ...",[0.01522792 0.87257403 0.11219805],negative,-0.8573461
+"Failure of leadership' behind Tesco troubles, says former CEO Leahy",[0.01150755 0.9584549  0.03003749],negative,-0.94694734
+British American Tobacco says would fight UK 'plain packaging' law,[0.14234163 0.0503192  0.8073392 ],neutral,0.092022434
+"Hammerson, JV Partner secure ownership of Ireland's Dundrum - Quick Facts",[0.19002593 0.00910189 0.8008722 ],neutral,0.18092403
+Asahi could be about to snap up more of SABMiller's beers ahead of AB InBev sale,[0.1019399  0.02941587 0.86864424],neutral,0.072524026
+"Are ARM Holdings plc, Domino's Pizza Group plc and ASOS plc 3 must-have growth stocks?",[0.06662653 0.01696309 0.9164104 ],neutral,0.04966344
+Persimmon reports strong trading despite EU vote and planning delays,[0.9561229  0.01711394 0.02676321],positive,0.93900895
+NYSE owner ICE considers offer for LSE,[0.09143918 0.01141615 0.8971447 ],neutral,0.08002303
+CompaniesSanofi poaches immunology expert from AstraZeneca,[0.07253607 0.01820784 0.90925616],neutral,0.05432823
+Mylan Appoints Ranjan Ray Chaudhuri as Global Commercial Lead for Mylan's Over ...,[0.43958887 0.00994765 0.55046344],neutral,0.42964122
+BP ends 27-year sponsorship of Tate as falling oil price takes toll,[0.02687149 0.94304174 0.03008679],negative,-0.91617024
+Royal Dutch Shell pulls plug on Arctic exploration,[0.02399893 0.85644746 0.11955366],negative,-0.83244854
+Horizonte acquires neighbouring Glencore nickel property in Brazil,[0.11108916 0.01072611 0.8781848 ],neutral,0.100363046
+"Standard Chartered, RBS Escape Capital Raising in Stress Test",[0.272128   0.03533107 0.6925409 ],neutral,0.23679692
+FDA approves AstraZeneca drug for advanced lung cancer,[0.77392274 0.01239113 0.21368621],positive,0.7615316
+Barclays poaches new chief operating officer Paul Compton from JP Morgan Chase,[0.0369279  0.18555717 0.7775149 ],neutral,-0.14862928
+"Water utility Severn Trent ups savings forecast, FY profit falls",[0.83610636 0.124939   0.03895467],positive,0.71116734
+Reed Elsevier shares cool after profit dip,[0.08433191 0.6938725  0.22179554],negative,-0.6095406
+BAE Systems lines up oil exec Woodburn as next CEO -source,[0.03532403 0.02497285 0.93970317],neutral,0.010351179
+Diageo share price: Group issues half-year update,[0.02829817 0.04070763 0.9309942 ],neutral,-0.012409467
+CompaniesDiageo moves CFO to lead North American business,[0.04741502 0.02155815 0.9310269 ],neutral,0.025856871
+"RBS, Lloyds Most Exposed to Commercial Property, JPMorgan Says",[0.06513391 0.03097143 0.90389466],neutral,0.034162477
+Legal & General share price: Finance chief to step down,[0.01571562 0.6319988  0.3522856 ],negative,-0.6162832
+CompaniesLSE adds ex-SEC head Schapiro to board,[0.03218396 0.04160498 0.926211  ],neutral,-0.009421021
+"European shares fall on Chinese import data, SABMiller soars",[0.02430858 0.9428711  0.03282039],negative,-0.91856253
+"News FeedSchroders books solid earnings growth, several board changes",[0.83946764 0.01469834 0.14583406],positive,0.8247693
+"Valeant, AstraZeneca strike psoriasis drug deal",[0.10314618 0.02951627 0.8673376 ],neutral,0.07362991
+Barclays considers acquisition to help split off retail arm,[0.11695156 0.01016013 0.87288827],neutral,0.10679144
+CFTC fines Barclays $560000 for inaccurate swaps position reports,[0.0136813  0.96261287 0.02370576],negative,-0.9489316
+Merged LSE and Deutsche BÃ¶rse would be led by Germany's Kengeter,[0.04030482 0.01225929 0.9474359 ],neutral,0.028045531
+Tesco turnaround gathers pace under new CEO,[0.64193296 0.02182858 0.3362385 ],positive,0.6201044
+"Tesco, Asda sales fall as march of the discounters continues: Kantar",[0.00717086 0.9690387  0.02379047],negative,-0.96186787
+"METALS-Zinc soars 10 pct, fuelling metals surge after Glencore cuts output",[0.8148756  0.14987905 0.03524539],positive,0.66499656
+BP cuts capex for third time this year to deal with weak oil,[0.04873037 0.89744437 0.05382533],negative,-0.848714
+Aspen to Buy Anaesthetics From AstraZeneca for $520 Million,[0.21366714 0.0091165  0.7772164 ],neutral,0.20455064
+Sainsbury chief warns of squeeze on high street retailers,[0.01865553 0.9535785  0.027766  ],negative,-0.93492293
+US sanctions put Gazprom-Shell alliance plans in jeopardy,[0.01178665 0.9488508  0.03936259],negative,-0.9370642
+UPDATE 6-Royal Dutch Shell pulls plug on Arctic exploration,[0.0182032  0.9121933  0.06960356],negative,-0.8939901
+AB InBev to Sell SABMiller Stake in China's Snow Beer,[0.04531267 0.01755987 0.9371274 ],neutral,0.0277528
+Persimmon share price climbs on 23% rise in full-year revenue,[0.9398168  0.03041201 0.02977129],positive,0.90940475
+Royal Mail hands chief executive Moya Greene a 13% rise in her pay package,[0.9366034  0.02729368 0.03610281],positive,0.90930974
+Travis Perkins to create 4000 jobs,[0.1827621  0.01843143 0.7988064 ],neutral,0.16433068
+LSE-Deutsche BÃ¶rse dealmakers wrong to ignore Brexit risk,[0.03439682 0.79770666 0.16789652],negative,-0.76330984
+Britain cuts Lloyds Banking Group stake to below 17 pct,[0.01757099 0.91712314 0.06530587],negative,-0.89955217
+LONDON MORNING BRIEFING: HSBC And Standard Chartered Shares Rise,[0.6310386  0.2520408  0.11692062],positive,0.3789978
+BP Reports $583 Million Loss in First Quarter,[0.00663275 0.96921074 0.02415649],negative,-0.962578
+"Britain's FTSE led lower by ITV, William Hill",[0.02060123 0.9408253  0.03857353],negative,-0.9202241
+Barclays set to name former JPMorgan banker Staley as new CEO,[0.03345969 0.0271694  0.93937093],neutral,0.006290281
+Friday Papers: Sir Philip Green sells BHS for Â£1,[0.08438119 0.03156639 0.8840524 ],neutral,0.052814797
+"Warren Buffett's Berkshire adds to favorites IBM, Wells Fargo",[0.1617569  0.01143349 0.8268095 ],neutral,0.15032342
+Spain's CaixaBank Expects To Close Deal For Banco BPI,[0.10290378 0.03674081 0.8603554 ],neutral,0.06616297
+How Kraft-Heinz Merger Came Together in Speedy 10 Weeks,[0.02875223 0.02819904 0.9430487 ],neutral,0.000553193
+Persimmon revenues lifted 12% by post-election confidence,[0.95248413 0.01577816 0.03173767],positive,0.93670595
+REFILE-Aviva Investors to move 34 bln euros in assets from AXA fund arm,[0.23594613 0.02043524 0.7436186 ],neutral,0.21551089
+US urges final approval of $20 billion BP oil spill pact,[0.59741247 0.06325693 0.33933052],positive,0.53415555
+Diageo Sells Ryder Cup Venue Gleneagles Hotel to Ennismore Group,[0.05338096 0.0143577  0.93226135],neutral,0.039023258
+UPDATE 1-GSK-linked investigator freed early from China jail - source,[0.11090036 0.14930272 0.7397969 ],neutral,-0.038402356
+"FTSE hits three-week low as financials, Tesco fall",[0.01095513 0.9363508  0.05269402],negative,-0.92539567
+LSE-Deutsche BÃ¶rse dealmakers wrong to ignore Brexit risk,[0.03439682 0.79770666 0.16789652],negative,-0.76330984
+Weir Group offloads two renewables units,[0.09186175 0.02285068 0.8852876 ],neutral,0.06901106
+Aggreko says first half profits will be lower as the oil price rout claims its latest victim,[0.01686438 0.9607502  0.02238541],negative,-0.94388586
+"Industry NewsRevenue, earnings take a tumble at Weir Group",[0.01529546 0.9620037  0.02270084],negative,-0.94670826
+"News FeedFTSE 100 movers: Ashtead jumps on strong interims; Glencore, BP in ...",[0.93506765 0.02669498 0.0382374 ],positive,0.90837264
+"Sharm el-Sheikh travel disruption: British Airways, EasyJet, Thomson and ...",[0.04213025 0.01255534 0.94531447],neutral,0.029574906
+London stock exchange shareholders vote on merger deal under Brexit cloud,[0.08549048 0.02947581 0.8850337 ],neutral,0.05601467
+"UPDATE: AstraZeneca's Selumetinib Gets Orphan Drug Label, Good AZD9291 ...",[0.2977835  0.04790289 0.6543136 ],neutral,0.24988061
+Intercontinental Exchange Opts Not to Bid for London Stock Exchange,[0.03869957 0.01410744 0.94719297],neutral,0.024592133
+Dave Lewis paid Â£4.1m for first 6 months at Tesco,[0.04990743 0.02687027 0.92322224],neutral,0.02303716
+Weir Group says first-half profits will be 'slightly ahead' of expectations,[0.89217097 0.07686424 0.03096479],positive,0.8153067
+Glencore Sells $2.5 Billion Stake in Agriculture Unit,[0.03813803 0.02320237 0.93865955],neutral,0.014935667
+AstraZeneca : FDA Panel Reviews Savor Study Results For Onglyza ...,[0.04680969 0.808238   0.1449523 ],negative,-0.76142836
+Hargreaves Lansdown bucks weak markets to see assets rise 2.6 percent,[0.8825227  0.09517965 0.02229769],positive,0.787343
+"Britain's FTSE hits three-week low as financials, Tesco fall",[0.01103529 0.9439518  0.04501291],negative,-0.9329165
+Trading ExpertBROKER RECOMMENDATIONSUBS ups RBS to 'buy' as it re-initiates coverage on UK banks,[0.6884872  0.00985658 0.30165628],positive,0.6786306
+"3G Capital, Warren Buffett's Favorite Partner in Deals Worth Billions",[0.08500361 0.01500333 0.8999931 ],neutral,0.07000029
+Shell's $70 Billion BG Deal Meets Shareholder Skepticism,[0.6736087  0.01282445 0.31356686],positive,0.66078424
+GKN to buy Fokker Technologies for 706 mln euros,[0.08148784 0.01090768 0.9076045 ],neutral,0.07058016
+Questor share tip: Mondi shares jump 10pc on strong start,[0.93199515 0.03487273 0.03313205],positive,0.89712244
+"Berkshire discloses unit's ties to Iran, opens probe",[0.04030443 0.0280025  0.931693  ],neutral,0.012301926
+"Rio Tinto swings to loss, drops dividend policy",[0.01489142 0.9515552  0.03355339],negative,-0.93666375
+Rio Tinto Reaffirms Goal for Iron Ore Output,[0.56878287 0.01640792 0.41480914],positive,0.55237496
+Shares in easyJet fall to three-year low after Brexit profit warning,[0.00799966 0.9592098  0.03279051],negative,-0.95121014
+Shire share price: Group releases full-year results,[0.02585273 0.08595423 0.888193  ],neutral,-0.0601015
+AstraZeneca share price: Company to carve out antibiotic R&D unit into separate ...,[0.0981825  0.01081349 0.89100397],neutral,0.08736901
+Ex-Barclays Trader Johnson Pleaded Guilty to Libor Fixing,[0.07002039 0.64514136 0.2848383 ],negative,-0.575121
+SABMiller buys Meantime to quench thirst for craft beer,[0.32030323 0.0139809  0.6657158 ],neutral,0.30632234
+Standard Chartered to slash costs as profits plunge 25%,[0.6032603  0.29334092 0.10339884],positive,0.30991936
+Buffett's Berkshire delivers 9.8% profit growth,[0.28512785 0.02317749 0.6916947 ],neutral,0.26195037
+"Rio Tinto CEO Sam Walsh rejects fears over China growth, demand",[0.13898152 0.17641865 0.6845999 ],neutral,-0.037437126
+CompaniesShell sells stake in Showa Shell Sekiyu for $1.4bn,[0.05424377 0.01369717 0.93205905],neutral,0.040546604
+Reed Elsevier to rename itself RELX Group,[0.03153895 0.0191825  0.9492786 ],neutral,0.012356455
+Sotheby's chairman takes his final sale,[0.01621439 0.07162326 0.91216236],neutral,-0.055408865
+Insight hires Aviva's David Hillier for multi-asset team,[0.10246916 0.01388609 0.8836448 ],neutral,0.088583075
+Shell offers 50 percent premium to buy BG for $70 billion,[0.22738524 0.0087978  0.763817  ],neutral,0.21858743
+Novartis buys remaining rights to GSK treatment in deal up to $1 billion,[0.1303065  0.00966301 0.86003053],neutral,0.12064349
+AB InBev to sell Peroni and Grolsch,[0.02893284 0.02640601 0.94466114],neutral,0.002526835
+Unilever posts weaker-than-expected fourth quarter,[0.01446439 0.9716958  0.01383982],negative,-0.9572314
+UPDATE 1-Dairy Crest loses a third of Morrisons milk contract,[0.00887441 0.95446926 0.03665633],negative,-0.94559485
+Rolls-Royce Wins $9.2 Billion Order From Emirates Airline,[0.9264382  0.0199759  0.05358588],positive,0.9064623
+Entertainment One dispels ITV takeover rumours,[0.08504625 0.09109556 0.8238582 ],neutral,-0.006049313
+NYSE owner ICE considers offer for LSE,[0.09143918 0.01141615 0.8971447 ],neutral,0.08002303
+Novartis buys remaining rights to GSK treatment in deal up to $1 billion,[0.1303065  0.00966301 0.86003053],neutral,0.12064349
+"EU drops Shell, BP, Statoil from ethanol benchmark investigation",[0.14728634 0.4335881  0.41912553],negative,-0.28630173
+"HSBC Preparing Job Cuts That May Target 20000 Workers, Sky Says",[0.01494033 0.93230695 0.05275277],negative,-0.9173666
+"UPDATE 3-BP settles oil spill-related claims with Halliburton, Transocean",[0.07503267 0.31459194 0.61037534],neutral,-0.23955926
+"PRESS: Serco Set To Appoint Roy Gardner, Ex-Centrica, As Chairman - FT",[0.03012143 0.03018745 0.9396912 ],neutral,-6.60E-05
+RBS bosses ordered to go out and meet small firms,[0.01829875 0.5572576  0.4244437 ],negative,-0.53895885
+AB InBev offers to sell some SABMiller brands,[0.110027   0.00973541 0.8802376 ],neutral,0.100291595
+RPT-UK supermarkets braced for battle as Tesco comes out fighting,[0.05040399 0.5620093  0.38758677],negative,-0.51160526
+"UPDATE 1-Glencore flags sale of some Australia, Chile assets",[0.15003954 0.01283908 0.83712137],neutral,0.13720046
+Barclays says not been offered deferred prosecution deal by SFO,[0.05028826 0.05005372 0.89965796],neutral,0.000234544
+Aviva promises higher dividends to boost flagging share price,[0.95049596 0.01666501 0.03283904],positive,0.933831
+Brewer AB InBev seeks $275 bln tie-up with SABMiller,[0.34899905 0.01782037 0.63318056],neutral,0.3311787
+Intercontinental Exchange Opts Not to Bid for London Stock Exchange,[0.03869957 0.01410744 0.94719297],neutral,0.024592133
+"Glencore Cuts 2015 Budget, Plans To Divest From Lonmin",[0.03841042 0.63607836 0.32551116],negative,-0.59766793
+HSBC Posts Surprise Fourth-Quarter Pretax Loss of $858 Million,[0.01037778 0.9707582  0.01886411],negative,-0.96038043
+Earnings surge as fund manager Schroders reports a record year,[0.75415    0.21169402 0.03415601],positive,0.542456
+Eurocrat left best-placed to unravel London Stock Exchange deal,[0.11649813 0.03387992 0.84962195],neutral,0.08261821
+Lawmakers worry AB InBev beer deal will hurt craft brewers,[0.01370126 0.9580586  0.02824013],negative,-0.94435734
+StanLife leads FTSE after strong earnings,[0.8678398  0.03290399 0.0992562 ],positive,0.83493584
+Lloyds Banking Group eyes return to dealmaking with MBNA bid,[0.20879546 0.01098808 0.78021646],neutral,0.19780739
+Anheuser-Busch InBev Increases Offer for Rival SABMiller,[0.8012269  0.09328792 0.1054851 ],positive,0.70793897
+"UK government sells more Lloyds shares, cuts stake to below 12 percent",[0.01554327 0.9458482  0.0386085 ],negative,-0.93030494
+Kinder Morgan and BP Form Joint Venture Limited Liability Company to Purchase ...,[0.3790577  0.01175669 0.60918564],neutral,0.36730102
+Tesco says UK store closures put 2000 jobs at risk,[0.00743121 0.9704746  0.02209416],negative,-0.9630434
+Tesco Versus Sainsbury: Weight-Watcher vs. Bodybuilder,[0.22576463 0.03511616 0.7391192 ],neutral,0.19064847
+"Buffett talks wind energy, Coca-Cola at Berkshire meeting",[0.06171708 0.01375166 0.9245313 ],neutral,0.04796542
+TSB boss: Current account switching must be simpler,[0.01838906 0.41492784 0.5666831 ],neutral,-0.3965388
+Barclays CEO Staley Says Brexit Slump Caused by Profit Fears,[0.01419231 0.966362   0.01944569],negative,-0.9521697
+Retailers Kingfisher and Sports Direct rise in Britain's share index,[0.6828842  0.24745065 0.06966507],positive,0.43543357
+Berkshire Shareholders Pepper Warren Buffett With Some Hard Questions,[0.19824983 0.09191049 0.7098397 ],neutral,0.10633934
+"GLOBAL MARKETS-Stocks gain on Royal Dutch Shell bid, oil slumps",[0.47530836 0.49587962 0.02881205],negative,-0.020571262
+EasyJet Dismisses Lufthansa Low-Cost Plan in Contest for Germany,[0.07963935 0.6551856  0.26517507],negative,-0.57554626
+AstraZeneca says new lung cancer pill Tagrisso approved by EU,[0.8419856  0.00990339 0.14811105],positive,0.8320822
+Two former Barclays traders face retrial over Libor,[0.01298984 0.9088994  0.07811072],negative,-0.8959096
+MarketsBP promotes upstream boss to deputy CEO,[0.06170307 0.03212236 0.90617454],neutral,0.029580709
+"Glencore swings to loss, will sell more assets",[0.07793629 0.73626256 0.18580116],negative,-0.65832627
+Shell to buy BG Group in $69.7 billion takeover,[0.06332708 0.01200741 0.9246655 ],neutral,0.051319666
+Clydesdale Bank hit with record PPI fine for 'unacceptable' staff lies,[0.0214059  0.93891275 0.03968126],negative,-0.9175069
+UK's FTSE climbs to record closing high as Standard Chartered surges,[0.833272   0.06789733 0.09883077],positive,0.76537466
+US judge rules that BP spill smaller than feared,[0.02982234 0.4083569  0.5618208 ],neutral,-0.37853456
+Royal Mail Revenue Flat As Letters Weakness Offsets Parcels Strength,[0.41152507 0.5645748  0.02390015],negative,-0.1530497
+"AB InBev launches SAB bid, to sell MillerCoors stake",[0.05920469 0.0219777  0.9188176 ],neutral,0.037226982
+ARM Royalties Accelerate as Smartphone Market Regains Strength,[0.94392    0.01818798 0.03789202],positive,0.925732
+Shell fined by Scottish court for 2011 North Sea oil spill,[0.02760093 0.9166528  0.05574623],negative,-0.88905185
+Glencore chief blames rivals' overproduction for share price fall,[0.00854546 0.9551386  0.03631594],negative,-0.94659317
+"Ackman, in email, says supports Valeant CEO Pearson",[0.11792362 0.01883773 0.86323863],neutral,0.0990859
+GlaxoSmithKline's CEO Witty to bow out in March 2017,[0.01829421 0.74726045 0.23444542],negative,-0.72896624
+Standard Life shuts Â£2.9bn property fund after investors rush to withdraw money post-Brexit,[0.00754981 0.9640027  0.02844754],negative,-0.9564529
+Shire CEO steps up drive to get Baxalta board talking,[0.2116975  0.01352333 0.77477914],neutral,0.19817418
+FTSE slide halted by BP's Â£12bn US settlement - London Report,[0.01593212 0.95121    0.03285786],negative,-0.9352779
+Sainsbury's pressed to raise bid for Home Retail Group,[0.4017387  0.01181769 0.5864436 ],neutral,0.389921
+"FDA approves NPS drug, in move validating Shire takeover deal",[0.72059727 0.03544253 0.24396026],positive,0.68515474
+Sanofi poaches AstraZeneca scientist as new research head,[0.08483951 0.0300895  0.885071  ],neutral,0.05475001
+CompaniesSanofi poaches immunology expert from AstraZeneca,[0.07253607 0.01820784 0.90925616],neutral,0.05432823
+ITV to pursue takeover of Canada's Entertainment One: Bloomberg,[0.0599722  0.01478887 0.9252389 ],neutral,0.045183334
+"Broker tips: RBS, Croda, Sage",[0.03725101 0.01928947 0.9434595 ],neutral,0.017961541
+"Royal Mail, Johnson Matthey lead FTSE lower",[0.03814165 0.02566161 0.9361967 ],neutral,0.012480034
+Industry NewsWhitbread sales sink in fourth quarter on Costa slowdown,[0.02064611 0.96514547 0.01420842],negative,-0.9444994
+Diageo and Carlsberg hit as Russians suffer from oil price collapse and rouble ...,[0.01972747 0.9606766  0.01959591],negative,-0.94094914
+GlaxoSmithKline share price slips as FDA okays asthma therapy only for adults,[0.01067495 0.96781117 0.02151394],negative,-0.9571362
+Report: Financial Times up for sale,[0.10555955 0.10072527 0.7937152 ],neutral,0.004834279
+Glencore raises $2.5bn through share placing to help cut debt load,[0.93535596 0.01533388 0.04931016],positive,0.9200221
+BP joins forces with Det Norske in Norway,[0.4017429  0.01898716 0.5792699 ],neutral,0.38275576
+No pay hikes this year at Rio Tinto as mining slump bites,[0.738659   0.18709457 0.07424643],positive,0.55156446
+"Nine banks including Barclays, Citi, agree to pay $2 billion to settle forex ...",[0.7579084  0.02170566 0.22038603],positive,0.7362027
+Warren Buffett's Berkshire Hathaway buys stake in Apple,[0.04389655 0.01910776 0.93699574],neutral,0.024788791
+"Broker tips: RBS, Croda, Sage",[0.03725101 0.01928947 0.9434595 ],neutral,0.017961541
+London Stock Exchange seals Â£22 billion merger with Germany's Deutsche BÃ¶rse,[0.679519   0.01593261 0.3045484 ],positive,0.6635864
+FTSE steadies around 2-month low Diageo shares surge,[0.04970734 0.91378146 0.03651126],negative,-0.8640741
+"Glencore Cuts 2015 Budget, Plans To Divest From Lonmin",[0.03841042 0.63607836 0.32551116],negative,-0.59766793
+London Stock Exchange Shareholders Approve Merger With Deutsche BÃ¶rse,[0.13077804 0.01243847 0.8567835 ],neutral,0.118339576
+"We'd support HSBC leaving London, says Standard Life",[0.1573895  0.06071203 0.7818985 ],neutral,0.096677475
+News FeedFTSE 100 movers: LSE surges as ICE says mulling offer; Ashtead and Barclays tank,[0.5770978  0.04685979 0.37604246],positive,0.530238
+CompaniesTesco bumps up pay for store staff,[0.01847727 0.95036954 0.03115318],negative,-0.9318923
+BP pay boss feels the heat from revolt over Dudley's Â£14 million,[0.02828686 0.91524535 0.05646781],negative,-0.8869585
+UPDATE 3-Stifel to buy former Lehman brokerage from Barclays,[0.06463343 0.01724742 0.9181192 ],neutral,0.04738601
+Shell Plans to Shed 2800 Jobs After Buying BG Group,[0.0111206  0.959728   0.02915142],negative,-0.9486074
+"Old Mutual to split up, may list some businesses",[0.01788753 0.09184117 0.8902713 ],neutral,-0.07395364
+"RBS, Lloyds Most Exposed to Commercial Property, JPMorgan Says",[0.06513391 0.03097143 0.90389466],neutral,0.034162477
+CompaniesKingfisher bid for Mr Bricolage runs into trouble,[0.01344938 0.8987008  0.0878498 ],negative,-0.8852514
+EasyJet to pass on lower fuel prices to customers,[0.66475433 0.0144685  0.32077715],positive,0.65028584
+Tesco loses two more directors as Garfield and Tammenoms step down,[0.00998888 0.9211068  0.06890433],negative,-0.9111179
+The UK Government's Call To Sell Shares In Royal Bank Of Scotland Group plc ...,[0.09774528 0.01810831 0.88414645],neutral,0.07963697
+Credit Suisse poaches Prudential's Thiam for Asian push,[0.1190755  0.06221728 0.81870717],neutral,0.056858215
+"Should You Buy Jumbo Yielders British American Tobacco plc, Centrica PLC & John Wood Group PLC?",[0.06264205 0.01344723 0.92391074],neutral,0.04919482
+Britain's FTSE eyes 7th straight daily rise; Wolseley lags,[0.6166785  0.35311198 0.03020952],positive,0.2635665
+EU regulator backs approval for GSK injectable asthma drug,[0.6000964  0.13237053 0.26753303],positive,0.46772587
+Rolls-Royce to Ensure Compliance After Petrobras Bribery Report,[0.20847131 0.5703878  0.22114094],negative,-0.36191648
+LSE gets Hong Kong regulatory nod to HK firms to become LSE members,[0.16612752 0.01119053 0.82268196],neutral,0.15493698
+"Warren Buffett's Berkshire adds to favorites IBM, Wells Fargo",[0.1617569  0.01143349 0.8268095 ],neutral,0.15032342
+Canadian Pension fund Borealis renews pursuit of Severn Trent : report,[0.0865284  0.01509844 0.8983732 ],neutral,0.07142996
+ITV merger reports boost Footsie stocks,[0.36075956 0.40992674 0.22931372],negative,-0.049167186
+"Kraft, Cadbury's and Britvic in Total Recall: how pulling a product affects profit",[0.02449456 0.263924   0.71158147],neutral,-0.23942944
+Wolseley helps lift FTSE from losses,[0.7313517  0.12342448 0.14522384],positive,0.6079272
+Novo Nordisk and AstraZeneca seek tonic from key drug trials,[0.88876796 0.01140783 0.0998243 ],positive,0.8773601
+"Saudi Aramco, Shell plan to break up Motiva, divide up assets",[0.05302753 0.02112596 0.92584646],neutral,0.03190157
+CommentOpening Quote: pay day moans; profits slump for Lloyds; Mars mission,[0.02525572 0.95520866 0.01953555],negative,-0.9299529
+AstraZeneca sells Caprelsa rights to Sanofi unit,[0.05595268 0.01204716 0.93200016],neutral,0.04390552
+Industry NewsWood Group wins multi-million dollar contract with BP,[0.78272605 0.02189498 0.19537897],positive,0.76083106
+Royal Mail and workers' union agree pay deal,[0.29685095 0.3637263  0.33942276],negative,-0.06687534
+Lloyds wins right to buy bonds back early to save 1 billion pounds,[0.76664925 0.01319122 0.22015956],positive,0.753458
+"Britain's FTSE buoyed by Admiral, building sector gains",[0.81098056 0.04529341 0.14372604],positive,0.76568717
+Tesco share price: Brand Guarantee comes under fire,[0.04694162 0.2346221  0.71843624],neutral,-0.18768048
+"FTSE led lower by M&S, GlaxoSmithKline",[0.01481781 0.9644081  0.02077403],negative,-0.94959027
+FTSE edges up as investors cheer Kingfisher results,[0.9117488  0.04727087 0.04098025],positive,0.86447793
+HSBC chief hit with tax-avoidance scandal,[0.02960956 0.72535956 0.24503085],negative,-0.69575
+British government stake in Lloyds Banking Group fa,[0.03978616 0.01930128 0.94091254],neutral,0.020484881
+AstraZeneca's $727 million play to do away with chemotherapy,[0.11273356 0.01845182 0.8688146 ],neutral,0.09428174
+HSBC appoints business leaders to board,[0.02592539 0.02263201 0.9514426 ],neutral,0.003293386
+Diageo and Carlsberg hit as Russians suffer from oil price collapse and rouble ...,[0.01972747 0.9606766  0.01959591],negative,-0.94094914
+"Buffett's Berkshire builds Deere stake, dumps Exxon",[0.02528861 0.21246439 0.762247  ],neutral,-0.18717578
+BUZZ-BG Group: outperforms sector after record output,[0.6048997  0.3548174  0.04028293],positive,0.2500823
+Teva First-Quarter Net Rises 11% Amid Mylan Takeover Battle,[0.8681485  0.0942486  0.03760295],positive,0.7738999
+"After Barclays and Bank of America, Citigroup has blockchain in sight",[0.07627535 0.01324234 0.91048235],neutral,0.063033015
+"Industry NewsG4S makes 'positive' start to year, no new impairments",[0.9061114  0.02262359 0.07126499],positive,0.8834878
+Morrisons helps FTSE edge higher energy shares slip,[0.88136405 0.03244733 0.08618858],positive,0.8489167
+Old Mutual share price: Wealth unit seen as blue-chip company,[0.04852855 0.01679572 0.9346757 ],neutral,0.031732827
+CompaniesUnilever sales lifted by ice cream in soft economy,[0.8639022  0.08932754 0.04677016],positive,0.7745747
+InterContinental Hotels first-quarter global room revenue lags estimates,[0.01100499 0.96694106 0.02205395],negative,-0.9559361
+"Bunzl backs 2015 view, buys more businesses",[0.9009492  0.02352014 0.07553069],positive,0.87742907
+Bidders Abandon Auction Of Tesco Data Unit,[0.02860562 0.42098588 0.55040854],neutral,-0.39238027
+"EU drops Shell, BP, Statoil from ethanol benchmark investigation",[0.14728634 0.4335881  0.41912553],negative,-0.28630173
+Euro zone QE helps Standard Life first-quarter funds boost,[0.81251067 0.01938394 0.16810533],positive,0.7931267
+Smith & Nephew 2015 trading profit beats expectations,[0.886051   0.06077497 0.05317395],positive,0.825276
+Closely watched AstraZeneca cancer drug fails in mesothelioma,[0.16901281 0.7371248  0.0938624 ],negative,-0.568112
+Glencore slumps 25 pct as debt fears grow,[0.01219926 0.969725   0.01807572],negative,-0.95752573
+Rolls-Royce to Ensure Compliance After Petrobras Bribery Report,[0.20847131 0.5703878  0.22114094],negative,-0.36191648
+AB InBev offers SABMiller $3 billion breakup fee,[0.0979727  0.00950787 0.8925194 ],neutral,0.08846483
+Barclays Executive Harrison Denies Knowledge of Libor Fixing,[0.02981028 0.2301871  0.74000263],neutral,-0.20037682
+Standard Life hit by 'unprecedented' number of calls on pension freedoms,[0.01186618 0.96152496 0.02660889],negative,-0.9496588
+Renewed AB InBev Bid for SABMiller Ups Stake in Beer Battle,[0.32554966 0.01245748 0.66199285],neutral,0.31309217
+CompaniesAB InBev signals it won't go hostile for SABMiller,[0.14743741 0.02573523 0.82682735],neutral,0.12170218
+Meggitt Acquires Cobham Advanced Composites Unit For USD200 Million,[0.07791178 0.01188169 0.9102065 ],neutral,0.066030085
+LSE Group names former SEC head Schapiro non-executive director,[0.01835388 0.17539266 0.80625343],neutral,-0.15703878
+IAG closes in on Aer Lingus with increased offer,[0.8354916  0.03137595 0.13313246],positive,0.80411565
+US sanctions put Gazprom-Shell alliance plans in jeopardy,[0.01178665 0.9488508  0.03936259],negative,-0.9370642
+AstraZeneca Teams With Daiichi Sankyo To Sell Movantik In US,[0.35105538 0.00993464 0.63901   ],neutral,0.34112075
+Analyst Views: Astrazeneca shares have seen recent volatility; what will 2015 ...,[0.13547882 0.18691799 0.6776032 ],neutral,-0.051439166
+"OCBC to Buy Barclay's Wealth Management Unit in Singapore, Hong Kong",[0.06654424 0.012831   0.9206248 ],neutral,0.053713243
+BP agrees to $18.7B penalty for oil spill; the tricky science behind ...,[0.09007047 0.43737432 0.4725552 ],neutral,-0.34730387
+AstraZeneca's MedImmune Inks Licensing Deal With Omnis Pharmaceuticals,[0.8992158  0.0091764  0.09160782],positive,0.89003944
+NYSE owner ICE may gatecrash Deutsche Boerse-LSE merger,[0.01861575 0.5809399  0.40044436],negative,-0.56232417
+"Aldi and Lidl expansion plans speed ahead as Tesco, Sainsbury's, Morrisons ...",[0.8598734  0.01005139 0.1300751 ],positive,0.84982204
+Compass Group says positive for year ahead,[0.8995589  0.03037682 0.0700643 ],positive,0.8691821
+Pearson expects to return to growth this year,[0.94594425 0.01235795 0.04169783],positive,0.9335863
+Rolls-Royce Wins $9.2 Billion Order From Emirates Airline,[0.9264382  0.0199759  0.05358588],positive,0.9064623
+Unilever head's resignation sparks spinoff talk,[0.01092339 0.92120945 0.06786713],negative,-0.91028607
+AstraZeneca wins US approval for longer use of blood thinner,[0.926721   0.0180008  0.05527814],positive,0.9087202
+BAE Systems cuts earnings target for 2015 and 370 jobs,[0.01853825 0.9473302  0.03413156],negative,-0.92879194
+Morrisons and Debenhams surprise City with Christmas bounce back,[0.72319424 0.04507212 0.2317336 ],positive,0.6781221
+Whitbread to hike prices to offset 'substantial' national living wage bill,[0.89347804 0.05748608 0.04903596],positive,0.835992
+"DBS, Julius Baer emerge as potential bidders for Barclays Asia wealth unit ...",[0.4843028  0.01074725 0.5049499 ],neutral,0.47355554
+CompaniesCar insurer Hastings Group driving Â£180m IPO,[0.13621365 0.02088773 0.8428986 ],neutral,0.11532591
+GlaxoSmithKline starts hunt for successor to CEO Witty,[0.02884077 0.12349734 0.8476619 ],neutral,-0.09465658
+National Grid's pretax profit rises 15 percent,[0.94091696 0.03000937 0.02907366],positive,0.91090757
+"Britain's FTSE steadies, supported by Dixons Carphone",[0.8490926  0.11343319 0.03747421],positive,0.7356594
+CRH's concrete bid for Holcim Lafarge assets,[0.39706022 0.01028427 0.5926555 ],neutral,0.38677594
+UK's Morrisons in talks to sell convenience stores - source,[0.06174309 0.01919534 0.9190616 ],neutral,0.042547755
+"HSBC keeps headquarters in London, rejects move to Hong Kong",[0.03899476 0.0179967  0.94300854],neutral,0.020998059
+Shell share price: Standard Life announce position against BG acquisition,[0.04601178 0.08415963 0.86982864],neutral,-0.038147848
+"EU regulators clear $100 billion-plus AB InBev, SABMiller deal",[0.08499814 0.45077616 0.4642257 ],neutral,-0.36577803
+Secretive Barclays deal involved Qatari clients,[0.0600634  0.03998483 0.89995176],neutral,0.020078573
+British American Tobacco first-half sales hurt by currency moves,[0.01291335 0.96855    0.01853672],negative,-0.9556367
+"European shares plunge, roiled by BHP and oil; hopes turn to ECB",[0.01733134 0.94558066 0.03708801],negative,-0.9282493
+Tullow Oil eyes lower earnings as output falls,[0.01021738 0.97073954 0.01904312],negative,-0.9605222
+"U.K. Stocks Little Changed Near Record as Barclays, Shell Fall",[0.07967524 0.45314977 0.46717492],neutral,-0.37347454
+BG Group ships first LNG From Queensland Curtis,[0.11988913 0.0110987  0.8690121 ],neutral,0.10879042
+Trading ExpertBROKER RECOMMENDATIONSAnalysts mostly negative on Aberdeen but some see value,[0.04653304 0.55799353 0.39547336],negative,-0.5114605
+"MarketsUBS, Goldman Sachs cut metals forecasts",[0.01860825 0.92225426 0.05913755],negative,-0.903646
+CompaniesKingfisher bid for Mr Bricolage runs into trouble,[0.01344938 0.8987008  0.0878498 ],negative,-0.8852514
+CompaniesUK government lines up Â£2bn Lloyds retail share sale,[0.26590535 0.00949474 0.72459996],neutral,0.2564106
+"UPDATE 1-AstraZeneca buys ZS Pharma for $2.7 billion, pips Actelion",[0.10019486 0.01162044 0.8881847 ],neutral,0.088574424
+UPDATE 3-Auto Trader shares leap in UK's biggest private equity-backed listing,[0.52879584 0.32748282 0.14372133],positive,0.20131302
+Standard Chartered Will Close Equity Sales and Research Business,[0.01728961 0.11076388 0.87194645],neutral,-0.09347427
+CompaniesNational Grid lines up sale of gas business,[0.03685071 0.02133074 0.94181854],neutral,0.015519975
+2 Turnaround Buys For 2016? BHP Billiton plc And Home Retail Group Plc,[0.08788813 0.01182222 0.90028965],neutral,0.07606591
+Prudential knocked after investors withdraw Â£3.9bn from M&G,[0.04548091 0.8490743  0.10544477],negative,-0.8035934
+US walrus protections hit Shell's Arctic drilling plan,[0.04315789 0.90444356 0.05239863],negative,-0.8612857
+Severn Trent Profit Offsets Interest Rate Swap Losses,[0.11301583 0.04368022 0.8433039 ],neutral,0.06933561
+CompaniesTullow says gas exports at key field disrupted,[0.63548344 0.06048825 0.3040283 ],positive,0.5749952
+"AstraZeneca bags another cancer drug deal, this time with Inovio",[0.62342465 0.01684354 0.35973185],positive,0.6065811
+"Tesco, Asda sales fall as march of the discounters continues-Kantar",[0.00748028 0.9660845  0.02643522],negative,-0.9586042
+"We'd support HSBC leaving London, says Standard Life",[0.1573895  0.06071203 0.7818985 ],neutral,0.096677475
+Severn Trent profit up as customer complaints fall,[0.43558064 0.5369257  0.02749366],negative,-0.10134503
+US dollar wipes out sales gains for SABMiller,[0.11341418 0.8670432  0.01954258],negative,-0.753629
+"AstraZeneca digs into precision medicine with lung, heart deals",[0.09276482 0.01188126 0.89535385],neutral,0.080883555
+Lloyds Banking Group to cut 640 jobs and close 23 branches,[0.00746815 0.96904975 0.02348218],negative,-0.9615816
+London Stock Exchange Group's quarterly revenue rises 12 percent,[0.9409303  0.02772306 0.03134675],positive,0.91320723
+News FeedFTSE 100 movers: LSE surges as ICE says mulling offer; Ashtead and Barclays tank,[0.5770978  0.04685979 0.37604246],positive,0.530238
+Dixons Carphone Profit Beats Forecast in First Year Since Merger,[0.7065082  0.26437786 0.02911391],positive,0.44213036
+PRESS: HSBC Chairman Hints Bank May Retain UK Domicile - Tel,[0.02892261 0.02744971 0.9436276 ],neutral,0.001472902
+"Associated British Foods Profit Hit by Strong Sterling, Tough Sugar Business",[0.02982991 0.95600575 0.01416437],negative,-0.92617583
+Former Schroders trader sentenced to 2 years in prison,[0.08439776 0.65210134 0.26350087],negative,-0.5677036
+GSK and Novartis complete deals to reshape both drugmakers,[0.89274603 0.00965776 0.09759626],positive,0.8830883
+Barclays Names Mike Bagguley as Chief Operating Officer of Investment Bank,[0.02779854 0.02448021 0.9477213 ],neutral,0.003318332
+BHP Billiton share price: Brazil to sue Samarco for Â£3.5bn,[0.02151698 0.8647315  0.11375155],negative,-0.8432145
+"Should you buy Associated British Foods plc, Great Portland Estates plc and Dunelm Group plc following today's news?",[0.04211333 0.01508673 0.9428    ],neutral,0.027026609
+Barclays hit with record fine as six banks settle forex scandal,[0.06727609 0.7887108  0.1440132 ],negative,-0.7214347
+UK Serious Fraud Office Seeks Retrial of Two Former Barclays Libor Traders,[0.01259669 0.92510694 0.06229641],negative,-0.9125103
+Cuadrilla files to delay application to frack in Lancashire,[0.01276465 0.7922977  0.19493769],negative,-0.7795331
+GlaxoSmithKline hails progress with lung disease treatment,[0.8899345  0.01493953 0.09512607],positive,0.87499493
+Morrisons escapes FTSE relegation,[0.04044542 0.03944288 0.9201117 ],neutral,0.001002535
+ITV Acquires 'Poldark' Production Company Mammoth Screen,[0.05202846 0.02071015 0.92726135],neutral,0.031318307
+RPT-UPDATE 2-Former Jefferies trader Litvak's conviction overturned,[0.021677   0.83488715 0.14343578],negative,-0.8132101
+Tesco Sales Deteriorate Ahead of Crucial Christmas Period,[0.01090426 0.97228944 0.0168063 ],negative,-0.9613852
+"Barclays, Credit Suisse strike record deals with SEC, NY over dark pools",[0.76743114 0.06582353 0.1667454 ],positive,0.7016076
+Tesco sells Blinkbox and broadband service to TalkTalk,[0.08013027 0.00928582 0.910584  ],neutral,0.07084446
+"Hammerson, JV Partner secure ownership of Ireland's Dundrum - Quick Facts",[0.19002593 0.00910189 0.8008722 ],neutral,0.18092403
+UPDATE 1-Berkshire applies to boost Wells Fargo stake above 10 pct,[0.9402252  0.01501988 0.04475493],positive,0.9252053
+Travis Perkins Hikes Dividend 20% As Profit And Revenue Rise,[0.6903885  0.26914373 0.04046779],positive,0.42124477
+GSK reveals strong trial results for shingles drug,[0.9547635  0.0157459  0.02949068],positive,0.9390176
+Experian says receives class actions related to T-Mobile breach,[0.01789439 0.8649853  0.11712034],negative,-0.8470909
+Shell shells out over Nigeria oil spill,[0.06151528 0.57171834 0.36676633],negative,-0.51020306
+Tesco to pay $12 million to settle US lawsuit,[0.12283733 0.20073614 0.6764266 ],neutral,-0.0778988
+"FTSE 100 moves lower, but HSBC outperforms",[0.02928986 0.9466788  0.0240314 ],negative,-0.917389
+Meggitt share price tumbles as profit falls in 'challenging year',[0.00879772 0.97177964 0.01942262],negative,-0.96298194
+BG Group Still Happy With Shell's $70 Billion Offer,[0.877383   0.01479586 0.10782116],positive,0.86258715
+AB InBev attacks SABMiller bid rebuffal,[0.06429287 0.01919446 0.9165127 ],neutral,0.045098417
+Aberdeen to raise 100 mln stg to seed new funds,[0.60780305 0.00906582 0.38313112],positive,0.59873724
+Sales boost for new Morrisons chief David Potts as Tesco turnaround stalls,[0.93479633 0.02246685 0.04273688],positive,0.9123295
+The Latest: Buffett says cuts will pay off at Kraft Heinz,[0.30491188 0.5997829  0.09530529],negative,-0.294871
+Glencore Studies Possible IPO for Agricultural Trading Business,[0.08867279 0.01208086 0.89924634],neutral,0.07659193
+"OCBC to Buy Barclay's Wealth Management Unit in Singapore, Hong Kong",[0.06654424 0.012831   0.9206248 ],neutral,0.053713243
+Gabon Considering Back Tax Penalties Against Royal Dutch Shell,[0.10327154 0.74455327 0.15217522],negative,-0.6412817
+"Barclays picks ex-JPMorgan exec Staley as new CEO, to start Dec 1",[0.02882354 0.03741998 0.93375653],neutral,-0.008596439
+Insight hires Aviva's David Hillier for multi-asset team,[0.10246916 0.01388609 0.8836448 ],neutral,0.088583075
+Struggling Morrisons pays out Â£3m to sacked boss Dalton Philips â€“ with more to ...,[0.19632164 0.4811154  0.322563  ],negative,-0.28479376
+Government to sell off remaining 14% stake in Royal Mail,[0.01972349 0.09039469 0.8898818 ],neutral,-0.0706712
+United Utilities' full-year underlying operating profit falls 9 percent,[0.01196254 0.97217757 0.01585986],negative,-0.96021503
+Tesco to close remaining Homeplus stores in UK,[0.01287925 0.7787975  0.20832327],negative,-0.76591825
+CEO of Berkshire's Gen Re to retire; Jain's role grows,[0.02074955 0.06322267 0.9160278 ],neutral,-0.042473122
+Morning Agenda: Shire's Deal for NPS,[0.11368106 0.01146248 0.8748564 ],neutral,0.10221858
+WPP boosts sales despite cautious clients,[0.94260526 0.02789238 0.02950241],positive,0.91471285
+"Britain's FTSE rises, led up by Glencore surge",[0.6553196  0.19089341 0.15378708],positive,0.46442616
+Brewer AB InBev seeks $275 bln tie-up with SABMiller,[0.34899905 0.01782037 0.63318056],neutral,0.3311787
+Tesco shareholders back ITV head for chairman,[0.05197955 0.07439897 0.8736215 ],neutral,-0.022419427
+Kingfisher takeover of Mr Bricolage could hit a brick wall,[0.0210325  0.7929428  0.18602464],negative,-0.7719103
+Old Mutual First-Quarter Sales Up 18% Buoyed by Emerging Markets,[0.94323844 0.02711853 0.02964305],positive,0.91611993
+"UPDATE 2-Prudential will see strong first-half earnings, outgoing CEO says",[0.9506373  0.02084193 0.02852083],positive,0.9297953
+Shell challenges Exxon dominance with 47 billion-pound bid for BG,[0.8534054  0.04285092 0.10374369],positive,0.8105545
+RSA Insurance Hires Towergate's Egan as Chief Financial Officer,[0.08370437 0.01820982 0.8980858 ],neutral,0.065494545
+"GlaxoSmithKline heart drug flops in study, shingles vaccine on track",[0.04125462 0.43115312 0.52759224],neutral,-0.3898985
+ICE Said to Start Lining Up Financing for LSE Bidding War,[0.17600608 0.00976032 0.8142336 ],neutral,0.16624576
+"FTSE rallies off three-month low, boosted by StanChart, Sainsbury",[0.5073145  0.4370659  0.05561962],positive,0.070248604
+Lloyds sells Irish loan portfolio for Â£827m,[0.04858172 0.01598997 0.9354283 ],neutral,0.032591745
+EasyJet Dismisses Lufthansa Low-Cost Plan in Contest for Germany,[0.07963935 0.6551856  0.26517507],negative,-0.57554626
+Renewed AB InBev Bid for SABMiller Ups Stake in Beer Battle,[0.32554966 0.01245748 0.66199285],neutral,0.31309217
+BHP's iron ore outlook holds little cheer for small miners,[0.10448111 0.7272397  0.16827911],negative,-0.6227586
+Shire share price under pressure after $32bn Baxalta deal,[0.05067459 0.90862644 0.04069905],negative,-0.8579518
+PRESS: Pearson Set To Announce Sale Of Financial Times - Reuters,[0.03739965 0.01758944 0.94501096],neutral,0.01981021
+Citigroup to Sell OneMain to Springleaf for $4.25 Billion,[0.03991727 0.01703976 0.943043  ],neutral,0.022877507
+"Five years after BP oil spill, some Gulf oystermen are losing hope",[0.02365629 0.7317884  0.2445553 ],negative,-0.7081321
+Walmart still selling Maryland T-shirts featuring the outline of Massachusetts,[0.05692497 0.02601621 0.91705877],neutral,0.03090875
+"GlaxoSmithKline beats profit forecasts despite Advair hit, lower margins",[0.7092097  0.27068597 0.02010442],positive,0.4385237
+Market Report: Eight-day rally ends for FTSE 100 and Standard Chartered,[0.02425606 0.6462856  0.32945833],negative,-0.62202954
+GlaxoSmithKline set to complete $20 billion Novartis asset swap next week,[0.08052956 0.01079311 0.9086774 ],neutral,0.06973645
+Tesco's Sales Pickup Isn't Enough,[0.05448429 0.7594837  0.18603206],negative,-0.7049994
+RBS chairman admits surprise at size of regulatory penalties,[0.11440279 0.6287959  0.2568013 ],negative,-0.51439315
+Persimmon sells 17% more houses in 2014,[0.11002268 0.0143717  0.8756056 ],neutral,0.09565098
+CRH's concrete bid for Holcim Lafarge assets,[0.39706022 0.01028427 0.5926555 ],neutral,0.38677594
+ITV strike: Broadcaster's revenue soars but staff walkout for a piece of the action,[0.01057967 0.9630373  0.02638301],negative,-0.95245767
+McEwan will be nursing RBS through more struggles yet,[0.28530452 0.02854679 0.68614864],neutral,0.25675774
+Arm profits and sales up as shift away from mobile gains pace,[0.8289326  0.13988352 0.03118386],positive,0.68904907
+Teva First-Quarter Net Rises 11% Amid Mylan Takeover Battle,[0.8681485  0.0942486  0.03760295],positive,0.7738999
+Land Securities warns of rent rises,[0.02088377 0.8958784  0.08323789],negative,-0.8749946
+Glencore shares hit 3-month high after refinancing key credit line,[0.9433914  0.0179552  0.03865336],positive,0.9254362
+RBS becomes a shadow of its former self,[0.03377939 0.39956194 0.5666587 ],neutral,-0.36578256
+Sir Ken Morrison has taken a Â£6m stake in rival Sainsbury's,[0.05099088 0.01370262 0.93530655],neutral,0.03728826
+Barclays Bonds Rise as Lender Cuts Dividends to Shore Up Capital,[0.04428159 0.92981124 0.0259072 ],negative,-0.88552964
+UPDATE 1-Pearson expects to grow this year after solid end to 2014,[0.94850063 0.02048503 0.03101438],positive,0.9280156
+AstraZeneca Acquires ZS Pharma in $2.7 Billion Deal,[0.07523411 0.01285742 0.9119085 ],neutral,0.06237669
+Market Report: Aviva tops the market as traders approve of its choice of Friends,[0.8959936  0.01751009 0.0864963 ],positive,0.87848353
+Admiral and Schroders lift FTSE with profits surge,[0.8079323  0.11294706 0.07912054],positive,0.6949853
+Tesco closes in on new chairman with Dixons Carphone's John Allan in the frame,[0.03630038 0.05175299 0.91194665],neutral,-0.015452605
+UK's FTSE hits new record highs as CRH climbs,[0.81345916 0.08989602 0.0966448 ],positive,0.72356313
+GlaxoSmithKline set to complete $20 billion Novartis asset swap next week,[0.08052956 0.01079311 0.9086774 ],neutral,0.06973645
+Shell share price: Standard Life announce position against BG acquisition,[0.04601178 0.08415963 0.86982864],neutral,-0.038147848
+GE to Sell Majority Stake in Bank BPH's Core Bank to Alior Bank,[0.0359286  0.01635657 0.94771487],neutral,0.019572027
+"U.K. Stocks Resume Gains to Rally to Record; CRH, Tullow Climb",[0.89849645 0.04641106 0.0550925 ],positive,0.8520854
+MarketsMoneysupermarket slides 11% on Barclays Brexit warning,[0.02049277 0.9467019  0.03280537],negative,-0.9262091
+"Can Standard Chartered PLC, BP plc & Burberry Group plc Keep Charging?",[0.04604045 0.04620288 0.9077566 ],neutral,-0.000162438
+Can Christmas Save Sainsbury's plc And Tesco plc?,[0.07326791 0.03474502 0.891987  ],neutral,0.03852289
+HSBC Says Unit to Book $585 Million Charge on Settlement,[0.06500103 0.08259074 0.85240823],neutral,-0.01758971
+FTSE boosted by Dixons Carphone with Fed in focus,[0.7808538  0.04244286 0.17670327],positive,0.73841095
+Standard Life impresses as fee-based products offset annuities slump,[0.06428486 0.01829424 0.9174209 ],neutral,0.045990624
+CompaniesHome Retail trims gains but is considered 'in play',[0.5316657  0.42726487 0.04106944],positive,0.10440081
+Intertek Group announces strategic update outlining its plan,[0.08954204 0.01878132 0.89167666],neutral,0.07076071
+Valeant CEO Pledges to Heed Critics After `Painful' Experience,[0.1279779 0.3716639 0.5003582],neutral,-0.243686
+Industry NewsHammerson joint venture buys Dublin loan portfolio,[0.29056984 0.01152271 0.69790745],neutral,0.27904713
+AstraZeneca sells Caprelsa rights to Sanofi unit,[0.05595268 0.01204716 0.93200016],neutral,0.04390552
+Greenpeace Protest of BP Forces British Museum to Close,[0.03388664 0.82112414 0.14498924],negative,-0.78723747
+"L&G fund arm, Nikko Asset Management sign bond fund distribution deal",[0.14382307 0.02295609 0.83322084],neutral,0.120866984
+UPDATE 2-Pricey beers lift SABMiller's quarterly underlying sales,[0.6655467 0.3132983 0.021155 ],positive,0.3522484
+"Insight - Britain's bank tax jump threatens to push HSBC, StanChart to new home",[0.01355172 0.95017695 0.03627125],negative,-0.93662524
+Royal Mail chairman Donald Brydon set to step down,[0.02256384 0.27277654 0.70465964],neutral,-0.2502127
+Teva: FDA Approves Generic Version of AstraZeneca Heartburn Drug,[0.8227785  0.01250567 0.16471581],positive,0.8102729
+Prudential shares halted in Hong Kong pending announcement,[0.01346538 0.72006243 0.26647216],negative,-0.70659703
+"CompaniesPound to boost ABF for now, but mixed impact ahead",[0.90613294 0.02023757 0.07362952],positive,0.8858954
+"EU drops Shell, BP, Statoil from ethanol benchmark investigation",[0.14728634 0.4335881  0.41912553],negative,-0.28630173
+AstraZeneca chases Acerta to secure next cancer drug winner,[0.78356737 0.00886279 0.20756987],positive,0.7747046
+"FDA panel backs safety updates for AstraZeneca, Takeda drugs",[0.04321812 0.66953903 0.28724277],negative,-0.6263209
+Barclays PLC & Lloyds Banking Group PLC Are The 2 Banks I'd Buy Today,[0.05383392 0.01272318 0.93344295],neutral,0.04111074
+BBCN Bancorp to buy Wilshire Bancorp in $1 bln deal,[0.07204189 0.01486142 0.91309667],neutral,0.057180475
+Payout from BP oil spill settlement tops $5 billion,[0.70187384 0.02598653 0.27213964],positive,0.6758873
+RSA Insurance Hires Towergate's Egan as Chief Financial Officer,[0.08370437 0.01820982 0.8980858 ],neutral,0.065494545
+"Berkshire Bought Apple Stake at $99.49 a Share, Filing Shows",[0.05041728 0.01345658 0.9361262 ],neutral,0.0369607
+Sainsbury's and Glencore give FTSE a three-digit lift - London Report,[0.23611636 0.01861778 0.74526584],neutral,0.21749859
+BHP Billiton drags FTSE lower after slashing dividend,[0.0145603  0.9628533  0.02258639],negative,-0.94829303
+Glencore sees Tripoli-based NOC as sole legal seller of Libyan oil,[0.06866122 0.00941026 0.92192847],neutral,0.05925096
+Unilever returns to Cuba in joint venture with state,[0.591391   0.00779133 0.40081766],positive,0.5835997
+Deals Help Shrink Glencore's Mountain of Debt,[0.9195467  0.04314924 0.03730404],positive,0.8763975
+"Aldi and Lidl expansion plans speed ahead as Tesco, Sainsbury's, Morrisons ...",[0.8598734  0.01005139 0.1300751 ],positive,0.84982204
+British taxpayers' stake in Lloyds falls below 22 percent,[0.00972291 0.94678545 0.04349158],negative,-0.93706256
+Fears Primark growth is starting to falter,[0.01471544 0.9622932  0.02299135],negative,-0.9475778
+"U.K. Stocks Resume Gains to Rally to Record; CRH, Tullow Climb",[0.89849645 0.04641106 0.0550925 ],positive,0.8520854
+Royal Bank of Scotland becomes Facebook customer,[0.03519569 0.0375558  0.92724854],neutral,-0.002360102
+MOVES-Ex-shadow minister McClymont joins Aberdeen Asset Management,[0.02348359 0.05755517 0.9189612 ],neutral,-0.03407158
+"Are Aviva plc, Direct Line Insurance Group PLC And Admiral Group plc Set To Soar?",[0.05661518 0.12882333 0.81456155],neutral,-0.072208144
+Morrisons and Debenhams surprise City with Christmas bounce back,[0.72319424 0.04507212 0.2317336 ],positive,0.6781221
+"FTSE ends lower on weaker miners, Tesco outperforms",[0.01472679 0.9634448  0.02182839],negative,-0.948718
+CompaniesCoutts raids JPMorgan Chase for new CEO,[0.03995652 0.04678223 0.9132613 ],neutral,-0.006825708
+Philippines' San Miguel says to partner with Kirin if it bids for SABMiller's ...,[0.51550394 0.01011257 0.47438347],positive,0.50539136
+Tesco share price down as grocer faces SFO investigation outcome,[0.01297593 0.9545982  0.03242591],negative,-0.94162226
+"FTSE rallies off three-month low, boosted by StanChart, Sainsbury",[0.5073145  0.4370659  0.05561962],positive,0.070248604
+"Are ARM Holdings plc, Domino's Pizza Group plc and ASOS plc 3 must-have growth stocks?",[0.06662653 0.01696309 0.9164104 ],neutral,0.04966344
+AstraZeneca share price: Acerta deal pays off with orphan drug status,[0.79484004 0.01853229 0.18662763],positive,0.77630776
+Cost savings help Robinsons maker Britvic to first-half profit,[0.95146483 0.02368493 0.02485018],positive,0.9277799
+CompaniesTesco sends supermarket shares to top of FTSE,[0.1568943  0.02184931 0.82125634],neutral,0.13504499
+"Diageo, Heineken Exchange Emerging-Market Brewing Assets",[0.04107    0.01460736 0.94432265],neutral,0.02646264
+Protesters gather in Seattle to block access to Shell oil rig,[0.01763565 0.8691133  0.11325099],negative,-0.8514777
+Passengers rise at EasyJet and Aer Lingus,[0.79443794 0.0202419  0.18532008],positive,0.774196
+Intertek profit up 16.1%; expects to meet forecast,[0.95079464 0.02365421 0.0255511 ],positive,0.9271404
+"Oil majors like Royal Dutch Shell, Chevron, BP fail to find reserves to counter ...",[0.05827197 0.5050768  0.43665117],negative,-0.44680485
+Tesco's boss knows which side his bread is buttered,[0.03538493 0.03872759 0.92588747],neutral,-0.003342651
+UPDATE 3-Ex-Barclays director accused by US of illegal tips to plumber,[0.01606951 0.91569805 0.06823242],negative,-0.8996285
+GSK hopes big clinical trial can breath new life into lung drug,[0.8022944  0.00722123 0.1904843 ],positive,0.79507315
+UPDATE: Peter Long To Be Chairman Of Both Royal Mail And TUI AG,[0.03031916 0.01901985 0.950661  ],neutral,0.011299303
+Standard Chartered CEO Peter Sands to Resign After Unrest at Bank,[0.01187435 0.92348063 0.06464498],negative,-0.91160625
+Industry NewsStrong results at Travis Perkins marred by plumbing impairment,[0.01073965 0.95920444 0.030056  ],negative,-0.9484648
+Mongolia and Rio Tinto agree $5bn Oyu Tolgoi mine expansion,[0.7808074  0.01033484 0.20885782],positive,0.7704725
+AstraZeneca to Buy ZS Pharma for $2.7 Billion,[0.05944592 0.01327844 0.9272756 ],neutral,0.046167478
+"Aviva plans to up pay-out ratio, says too soon to judge Brexit impact",[0.681077   0.11643822 0.20248483],positive,0.5646388
+Reluctant shareholder George Osborne loses patience with RBS,[0.01295241 0.9057806  0.08126697],negative,-0.8928282
+Cuadrilla and protesters await Lancashire fracking decision,[0.02987802 0.6104552  0.35966676],negative,-0.5805772
+Currency causes full-year headaches for SABMiller,[0.01357837 0.9525699  0.03385166],negative,-0.93899155
+Beach holiday demand helps lift clouds for easyJet,[0.467863   0.03506453 0.49707255],neutral,0.43279845
+ARM Holdings plc Partners With International Business Machines Corp. To Drive ...,[0.87355244 0.00763317 0.11881442],positive,0.8659193
+NYSE owner ICE may gatecrash Deutsche Boerse-LSE merger,[0.01861575 0.5809399  0.40044436],negative,-0.56232417
+"StanChart announces $5.1 billion capital-raising plan, posts Q3 loss",[0.11827731 0.08036568 0.801357  ],neutral,0.03791163
+BT Group's third quarter revenues rise as restructure unveiled,[0.91940147 0.04151506 0.03908345],positive,0.8778864
+SSE share price: Peterhead station to supply voltage support to National Grid,[0.15033261 0.00940572 0.8402617 ],neutral,0.1409269
+Insurer Old Mutual picks Standard Bank's Hemphill as new CEO,[0.05309102 0.02966138 0.9172476 ],neutral,0.02342964
+Berkshire seeks to boost its Wells Fargo stake above 10 percent,[0.93460405 0.01034602 0.05504995],positive,0.92425805
+AstraZeneca's patent on asthma drug invalidated by US court,[0.02090484 0.884846   0.09424923],negative,-0.86394113
+Lloyds Bank Is Said to Face Potential Fine Over Handling of Insurance Complaints,[0.01557967 0.94230306 0.04211723],negative,-0.92672336
+Goodwin not to face Scottish prosecution over RBS,[0.05178203 0.57642347 0.37179455],negative,-0.52464145
+TOP NEWS: Barclays Profit Depressed By Foreign Exchange Provisions,[0.02166199 0.962273   0.01606501],negative,-0.940611
+RBS Pays $1.7 Billion to Scrap U.K. Treasury's Dividend Rights,[0.08561154 0.7291639  0.18522464],negative,-0.64355236
+"Glencore 2014 profit in line, takes $1.1 billion charge on commodity prices",[0.8568811  0.08749681 0.05562216],positive,0.76938426
+Morrisons share price: Group trading director departs as management cull ...,[0.00847996 0.92999375 0.06152629],negative,-0.9215138
+Lloyds returns Â£13bn to UK taxpayer,[0.10165513 0.02353944 0.8748054 ],neutral,0.07811568
+Weir leads FTSE lower after oil price profits warning,[0.06258473 0.8682162  0.06919903],negative,-0.8056315
+Retail focus helps to shield Lloyds from banking chill,[0.3057482  0.17572647 0.51852536],neutral,0.13002172
+UPDATE 1-RBS raising $3.1 billion through issue of CoCo bonds,[0.79292077 0.01144927 0.19562997],positive,0.7814715
+Retailers Kingfisher and Sports Direct rise in Britain's share index,[0.6828842  0.24745065 0.06966507],positive,0.43543357
+UPDATE 1-Rio Tinto to sell aluminium assets in $1 bln deal -paper,[0.19095059 0.01491896 0.79413044],neutral,0.17603162
+EasyJet attracts more passengers in June but still lags Ryanair,[0.05725929 0.92307264 0.01966814],negative,-0.8658134
+"FastJet slams EasyJet founder Stelios for going public, is ""taking legal advice"" over letter about contractual ...",[0.01522792 0.87257403 0.11219805],negative,-0.8573461
+Barclays fined for anti-money-laundering failings,[0.01253282 0.9395612  0.04790596],negative,-0.92702836
+CORRECTED-Shire to buy Dyax for about $5.9 bln,[0.10925379 0.0157637  0.87498254],neutral,0.09349008
+"BP, Statoil, to Withdraw Staff From Algeria Following Rocket Attack",[0.01034393 0.9388998  0.0507562 ],negative,-0.9285559
+ITV shares dip after update,[0.01723388 0.90950495 0.07326116],negative,-0.89227104
+"Centrica extends gas deals with Gazprom, Statoil",[0.8860487  0.01723589 0.09671543],positive,0.8688128
+Glencore shares enjoy bounce-back after Hong Kong-led surge,[0.8935779  0.07051735 0.03590479],positive,0.8230605
+Ruling sets lower limit on potential fine for BP,[0.08015264 0.17070107 0.74914634],neutral,-0.09054843
+Sports Direct Shares Tumble as Founder Ashley Sells Shares,[0.0079056  0.95645773 0.03563659],negative,-0.94855213
+Shell challenges Exxon dominance with 47 billion-pound bid for BG,[0.8534054  0.04285092 0.10374369],positive,0.8105545
+Diageo receives reports from United Spirits on financial irregularities involving ...,[0.01333472 0.94783777 0.03882744],negative,-0.9345031
+Credit checker Experian reports fall in full-year profit,[0.01113309 0.97342354 0.01544336],negative,-0.96229047
+Insurer Old Mutual picks Standard Bank's Hemphill as new CEO,[0.05309102 0.02966138 0.9172476 ],neutral,0.02342964
+Barclays reports 8% fall in annual profits,[0.01083759 0.9756107  0.01355171],negative,-0.96477306
+Teva: FDA Approves Generic Version of AstraZeneca Heartburn Drug,[0.8227785  0.01250567 0.16471581],positive,0.8102729
+Balfour Beatty plc Set To Reinstate Dividend (And Rival National Grid plc And Centrica PLC Once More?),[0.05054175 0.03331056 0.91614765],neutral,0.017231196
+Chipotle Sales Plunge as Troubled Chain Gets Federal Subpoena,[0.01201838 0.96349496 0.0244867 ],negative,-0.9514766
+Shell offers 50 percent premium to buy BG for $70 billion,[0.22738524 0.0087978  0.763817  ],neutral,0.21858743
+Morrisons share price: Founder's son to assist CEO with turnaround,[0.04495914 0.02936656 0.9256743 ],neutral,0.015592579
+UPDATE 1-EU regulator backs approval for GSK injectable asthma drug,[0.49563897 0.30686456 0.19749656],positive,0.1887744
+Sainsbury sells unit to LloydsPharmacy,[0.05146483 0.01628928 0.9322459 ],neutral,0.03517555
+Former Barclays traders stand trial in Libor case,[0.04966345 0.66311306 0.28722346],negative,-0.61344963
+Tesco share price jumps as Q3 sales top estimates,[0.5510724  0.39511618 0.05381137],positive,0.15595624
+"South Africa approves SABMiller, Coke bottling deal with conditions",[0.70086473 0.01080441 0.2883309 ],positive,0.6900603
+CompaniesActelion shares hit record on Shire takeover talk,[0.8096148 0.0303397 0.1600455],positive,0.77927506
+UPDATE: Aggreko Interim Profit Drops As It Undertakes Restructuring,[0.0078366  0.97484076 0.01732265],negative,-0.9670042
+"HSBC, Standard Chartered Lead Asia Bank Rout as U.K. Votes 'Out'",[0.40678853 0.42761636 0.1655951 ],negative,-0.02082783
+Standard Chartered's Shares Plunge 7% After Fitch Downgrade,[0.01777531 0.9502943  0.03193042],negative,-0.932519
+Standard Chartered Misses Estimates in Sands's Last Results,[0.0107569  0.92667955 0.06256358],negative,-0.91592264
+"HSBC shakes up board with two new business chiefs, three departures",[0.02131979 0.7193575  0.2593228 ],negative,-0.6980377
+Britain's FTSE slips from 2016 high as Sky falls,[0.01227759 0.96411043 0.02361194],negative,-0.95183283
+BHP Billiton to lower copper production costs,[0.8774902  0.03333149 0.08917822],positive,0.8441587
+Glencore Sells Shares to Raise $2.5 Billion and Reduce Debt,[0.8721455  0.07948625 0.04836837],positive,0.7926592
+CompaniesSmith & Nephew flops 6.8% to foot of FTSE 100,[0.04633252 0.60946375 0.3442037 ],negative,-0.5631312
+"Philip Morris, BAT Sue Over Law Taking Branding Off Packs",[0.03641753 0.7077878  0.25579458],negative,-0.67137027
+Asahi could be about to snap up more of SABMiller's beers ahead of AB InBev sale,[0.1019399  0.02941587 0.86864424],neutral,0.072524026
+Buffett's Company Reports 37 Percent Drop in 2Q Earnings,[0.00785286 0.97633284 0.01581435],negative,-0.96848
+BP Judge Urged to Impose $11.7 Billion-Plus Spill Fine,[0.07564743 0.45196334 0.47238925],neutral,-0.3763159
+RBI surprises Street; Sensex pares gains after hitting mount 30k,[0.7808313  0.14397961 0.07518909],positive,0.63685167
+"Royal Mail needs to deliver on modernisation plans, post haste",[0.5047652  0.01350923 0.48172554],positive,0.49125597
+Barclays CEO poaches risk head from JP Morgan,[0.03887535 0.5324022  0.42872238],negative,-0.49352688
+"Sainsbury's, Asda, Tesco and Morrisons will all cut petrol prices as oil falls ...",[0.01044768 0.93843955 0.05111269],negative,-0.92799187
+Clydesdale Bank H1 profits weighed down by PPI charge,[0.01361534 0.96506095 0.0213237 ],negative,-0.95144564
+UPDATE 1-AstraZeneca sells rare cancer drug to Sanofi for up to $300 mln,[0.5528942  0.01202825 0.43507755],positive,0.5408659
+CompaniesDeutsche taps ex-StanChart executive for audit role,[0.02526566 0.03322612 0.9415082 ],neutral,-0.007960459
+Cuadrilla chief Francis Egan: Scaremongering fracking opponents make me angry,[0.01885594 0.79737157 0.18377243],negative,-0.77851564
+Investors Remain Skeptical About Shell-BG Deal,[0.09464177 0.5131045  0.3922537 ],negative,-0.41846272
+Amazon to attack UK grocery market with Morrisons deal,[0.01944882 0.75165796 0.22889315],negative,-0.73220915
+Glencore tells investors it is on track to reduce debt: Barclays,[0.33655813 0.03531302 0.6281288 ],neutral,0.30124512
+UPDATE 3-Barclays fined for lax crime checks in 'deal of century',[0.02835376 0.94307345 0.0285728 ],negative,-0.9147197
+Prudential hit by withdrawals from M&G investment arm,[0.01124708 0.9587027  0.03005034],negative,-0.9474556
+Old Mutual faces backlash over Â£9m chief exec payout plan,[0.01429038 0.967266   0.01844357],negative,-0.95297563
+Barclays backs new iPhone and Android app that lets users send each other money using a bitcoin network,[0.28543296 0.00829692 0.70627016],neutral,0.27713606
+Diageo Sells Ryder Cup Venue Gleneagles Hotel to Ennismore Group,[0.05338096 0.0143577  0.93226135],neutral,0.039023258
+Lloyds to cut 945 jobs as part of three-year restructuring strategy,[0.00843859 0.97074425 0.02081719],negative,-0.96230567
+CommentOpening Quote: Tesco; Premier Foods jilted; FCA on IPOs,[0.03551037 0.854914   0.10957558],negative,-0.81940365
+Investor Woodford calls for outsider to head GlaxoSmithKline,[0.04349186 0.02383024 0.9326779 ],neutral,0.019661617
+Randgold Resources third quarter profit slips despite record production,[0.00916856 0.97444046 0.01639093],negative,-0.9652719
+News FeedFTSE 100 movers: LSE surges as ICE says mulling offer; Ashtead and Barclays tank,[0.5770978  0.04685979 0.37604246],positive,0.530238
+"Goldman Sachs, Barclays, HSBC downplay Brexit threat",[0.03304875 0.36864322 0.59830797],neutral,-0.33559448
+UPDATE 1-UK to start selling remaining Royal Mail shares,[0.08983384 0.0187583  0.89140785],neutral,0.071075544
+Companies Thetrainline.com announces arrival of London IPO,[0.03293165 0.03154661 0.9355217 ],neutral,0.001385037
+Hargreaves weathers torrid ISA season and Brexit fears,[0.02622459 0.8921327  0.08164272],negative,-0.8659081
+PRESS: UK Government Would Oppose Any BP Takeover - FT,[0.046127   0.05635729 0.8975157 ],neutral,-0.010230292
+"Britain's FTSE gains, Land Securities up after dividend hike",[0.9002962  0.05884912 0.04085464],positive,0.8414471
+AstraZeneca's MedImmune Inks Licensing Deal With Omnis Pharmaceuticals,[0.8992158  0.0091764  0.09160782],positive,0.89003944
+What It Takes for Royal Dutch Shell to Break Even,[0.04673066 0.02670526 0.9265641 ],neutral,0.020025404
+Industry NewsPetrofac secures $250m North Sea contract,[0.8938278  0.01489327 0.09127892],positive,0.8789345
+"Lloyds Will Cut 640 Jobs, Close 23 Branches as Part of 2014 Plan",[0.00756717 0.96766764 0.0247652 ],negative,-0.9601005
+Royal Mail turnaround proving expensive in tough UK market,[0.03480547 0.93225336 0.03294109],negative,-0.8974479
+IHG agrees $938 sale of InterContinental Hong Kong,[0.16775861 0.01012991 0.8221115 ],neutral,0.1576287
+Barclays Said to Shrink Bonus Pool to Less Than 2 Billion Pounds,[0.02164224 0.8991119  0.07924576],negative,-0.87746966
+Shire Offers to Buy Baxalta for $30 Billion,[0.12390789 0.00871537 0.86737674],neutral,0.11519252
+Crown Castle buys Tower Development Corp for $461 million,[0.03844553 0.01796088 0.94359356],neutral,0.020484649
+LONDON MORNING BRIEFING: HSBC And Standard Chartered Shares Rise,[0.6310386  0.2520408  0.11692062],positive,0.3789978
+Norway's sovereign wealth fund says backed Shell CEO's pay,[0.64470553 0.03354565 0.32174885],positive,0.61115986
+MarketsProperty stocks under pressure after Standard Life fund move,[0.05310067 0.8961717  0.05072771],negative,-0.84307104
+UPDATE 5-SABMiller rejects AB InBev's $104 bln takeover approach,[0.11064334 0.69691616 0.19244045],negative,-0.58627284
+BP's fine for 2010 oil spill capped at $13.7 billion,[0.1372772 0.4640452 0.3986776],negative,-0.32676798
+Oilfield services firm Petrofac's debt shoots up 50 per cent,[0.9492273  0.02117809 0.02959472],positive,0.9280492
+Eli Lilly & Co. (LLY) Has Broken Out To A New High On AstraZeneca Collaboration,[0.9373929  0.02989218 0.03271502],positive,0.9075007
+FTSE 100 movers: BG Group leads the charge as resource stocks jump,[0.25195503 0.03822657 0.70981836],neutral,0.21372846
+Spain's CaixaBank Expects To Close Deal For Banco BPI,[0.10290378 0.03674081 0.8603554 ],neutral,0.06616297
+Royal Mail share price: Postal service issues trading update,[0.01895158 0.04078866 0.94025975],neutral,-0.021837082
+Barclays Said to Cut 150 at Investment Bank as McCormick Departs,[0.01065316 0.9561171  0.03322974],negative,-0.94546396
+Glencore fight back over debt fears lifts shares,[0.15315679 0.801659   0.04518422],negative,-0.64850223
+SAB's Chairman Digs In With Board Divided on InBev Offer,[0.12134718 0.22962473 0.64902806],neutral,-0.10827755
+Britain facing winter of blackouts as National Grid warns of tightest power ...,[0.01468254 0.95425636 0.03106117],negative,-0.9395738
+AB InBev approaches SABMiller to explore $250bn tie-up,[0.7359684  0.00860479 0.25542676],positive,0.72736365
+Barclays launches first 100% mortgages since crisis,[0.11861228 0.01140328 0.8699845 ],neutral,0.107209004
+Germanwings disaster will not affect image of budget air travel - easyJet,[0.03108324 0.05349542 0.9154213 ],neutral,-0.02241218
+"Nine banks including Barclays, Citi, agree to pay $2 billion to settle forex ...",[0.7579084  0.02170566 0.22038603],positive,0.7362027
+"After Barclays and Bank of America, Citigroup has blockchain in sight",[0.07627535 0.01324234 0.91048235],neutral,0.063033015
+Early victory for new CEO as Morrisons beats forecasts,[0.75070673 0.08002744 0.16926584],positive,0.6706793
+Barclays said to be cutting 150 investment bank jobs,[0.00970405 0.9505896  0.03970634],negative,-0.94088554
+Shell challenges Exxon dominance with 47 billion-pound bid for BG,[0.8534054  0.04285092 0.10374369],positive,0.8105545
+"Should You Buy Jumbo Yielders British American Tobacco plc, Centrica PLC & John Wood Group PLC?",[0.06264205 0.01344723 0.92391074],neutral,0.04919482
+London Stock Exchange seals Â£22 billion merger with Germany's Deutsche BÃ¶rse,[0.679519   0.01593261 0.3045484 ],positive,0.6635864
+Unilever Finds Growth More Elusive as Sales Meet Estimates,[0.26674226 0.47110072 0.26215696],negative,-0.20435846
+Primark racks up a happy Christmas after strong sales,[0.8914956  0.04365809 0.06484624],positive,0.8478375
+New York says Barclays not cooperating in 'dark pool' probe,[0.03962699 0.66931903 0.29105398],negative,-0.629692
+"FDA approves NPS drug, in move validating Shire takeover deal",[0.72059727 0.03544253 0.24396026],positive,0.68515474
+Royal Mail share price edges lower as group raises stamp price,[0.01730019 0.95040166 0.03229818],negative,-0.9331015
+Sainsbury's and Glencore give FTSE a three-digit lift - London Report,[0.23611636 0.01861778 0.74526584],neutral,0.21749859
+Tesco share price dips as Blinkbox Books closes ending supermarket's digital ...,[0.00968911 0.96655476 0.02375603],negative,-0.95686567
+Tata Steel working with StanChart for UK unit sale - source,[0.05465597 0.01600112 0.9293429 ],neutral,0.038654853
+Diageo offloads major wine interests,[0.05485259 0.07623778 0.8689096 ],neutral,-0.021385182
+Glencore Agrees to Sell Minority Stake in Agriculture Business,[0.07171252 0.01449288 0.91379464],neutral,0.057219647
+Diageo sells wine businesses for 320m pounds,[0.04756941 0.01295834 0.93947226],neutral,0.03461107
+Breakingviews: IAG can pay more for Aer Lingus,[0.19713491 0.00746788 0.7953972 ],neutral,0.18966703
+UPDATE 1-UK government would oppose any takeover of BP -FT,[0.06519004 0.08093476 0.85387516],neutral,-0.015744723
+Australian mining slowdown hits Aggreko,[0.02772836 0.9356343  0.03663732],negative,-0.90790594
+The sustainability of Royal Dutch Shell's dividend,[0.12244339 0.01468473 0.86287194],neutral,0.107758656
+CompaniesCoutts raids JPMorgan Chase for new CEO,[0.03995652 0.04678223 0.9132613 ],neutral,-0.006825708
+Easyjet traffic hit by air traffic controller strikes and terrorism,[0.01040907 0.9573184  0.03227252],negative,-0.94690937
+Dixons Carphone says cyber attack may have exposed customers' data,[0.01214304 0.92601913 0.06183783],negative,-0.9138761
+Stars aligned' for AB InBev's megabrew merger plan,[0.72986925 0.00802845 0.26210228],positive,0.7218408
+AstraZeneca's Good Deal Turns Bad,[0.63776785 0.11798382 0.24424835],positive,0.51978403
+Tesco share price dips as Blinkbox Books closes ending supermarket's digital ...,[0.00968911 0.96655476 0.02375603],negative,-0.95686567
+"Aldi and Lidl expansion plans speed ahead as Tesco, Sainsbury's, Morrisons ...",[0.8598734  0.01005139 0.1300751 ],positive,0.84982204
+Primark plots expansion in US and Europe,[0.6630831  0.00931969 0.3275972 ],positive,0.6537634
+BP shares tumble after $2.2bn fourth-quarter loss,[0.00867105 0.96580285 0.02552607],negative,-0.9571318
+Is Trouble Brewing At Legal & General Group Plc And Aviva plc?,[0.0161406  0.8943978  0.08946154],negative,-0.8782572
+Berkshire Hathaway's 4Q profit declines 17 percent,[0.01696075 0.9661727  0.01686662],negative,-0.94921196
+Ex-Barclays traders sentenced to up to six years' jail in Libor case,[0.05896451 0.8255283  0.11550709],negative,-0.76656383
+BP slashes capital spending by 20%,[0.01428201 0.9557256  0.0299924 ],negative,-0.9414436
+Shell's profits hit by further slide in oil prices,[0.03287631 0.94150436 0.0256193 ],negative,-0.90862805
+The Coca-Cola Company and Coca-Cola FEMSA to Acquire AdeS Soy-Based Beverage Business From Unilever,[0.12049682 0.00839916 0.871104  ],neutral,0.11209766
+Stars aligned' for AB InBev's megabrew merger plan,[0.72986925 0.00802845 0.26210228],positive,0.7218408
+Tesco sells half of stake in ecommerce site Lazada to Alibaba for Â£90m,[0.03345048 0.02308922 0.9434603 ],neutral,0.01036126
+Lloyds is cutting more than 600 jobs and shutting 21 branches,[0.00655711 0.97046465 0.02297825],negative,-0.96390754
+Can BP Restore Its Lost Luster?,[0.17990641 0.03040282 0.78969073],neutral,0.14950359
+"Britain's FTSE steadies below record high, BHP gains",[0.5002043  0.44002146 0.05977417],positive,0.06018287
+"Insight - Britain's bank tax jump threatens to push HSBC, StanChart to new home",[0.01355172 0.95017695 0.03627125],negative,-0.93662524
+"Can Standard Chartered PLC, BP plc & Burberry Group plc Keep Charging?",[0.04604045 0.04620288 0.9077566 ],neutral,-0.000162438
+Tesco Versus Sainsbury: Weight-Watcher vs. Bodybuilder,[0.22576463 0.03511616 0.7391192 ],neutral,0.19064847
+Stakes High for AstraZeneca Heart Drug Facing Tough Competition,[0.8943439  0.02144151 0.08421453],positive,0.8729024
+UPDATE 1-Cypress Semiconductor offers to buy Integrated Silicon Solution,[0.34437522 0.01080828 0.6448165 ],neutral,0.33356693
+Breakingviews: IAG can pay more for Aer Lingus,[0.19713491 0.00746788 0.7953972 ],neutral,0.18966703
+InterContinental Hotels denies exploring sale or merger,[0.02251778 0.04681137 0.9306708 ],neutral,-0.024293596
+Peroni and Grolsch put up for sale as AB InBev plans acquisition of SABMiller,[0.15584056 0.02123604 0.8229234 ],neutral,0.13460451
+Hargreaves Lansdown says first-quarter assets hit by stock market flux,[0.01026798 0.96599704 0.02373499],negative,-0.95572907
+Aviva Expects 1500 Jobs Cuts from Friends Life Deal,[0.00943012 0.964661   0.02590896],negative,-0.9552309
+CompaniesThiam received Â£5m pay packet for final months at Prudential,[0.40618953 0.18051562 0.41329488],neutral,0.22567391
+"UPDATE 1-BHP Billiton's credit ratings fragile in FY16, agencies warn",[0.13034205 0.55386525 0.3157927 ],negative,-0.4235232
+Royal Dutch Shell Posts Rise in Earnings Despite Lower Oil Prices,[0.95209724 0.02435408 0.02354863],positive,0.92774314
+Shell to Go Ahead With Petrochemical Plant in Pennsylvania,[0.1387246  0.00818741 0.853088  ],neutral,0.13053718
+AB InBev approaches SABMiller to explore $250bn tie-up,[0.7359684  0.00860479 0.25542676],positive,0.72736365
+Sugar tax spurs Pepsi owner Britvic to change drinks recipes by 2020,[0.11374925 0.41023594 0.47601476],neutral,-0.29648668
+Barclays poaches new chief operating officer Paul Compton from JP Morgan Chase,[0.0369279  0.18555717 0.7775149 ],neutral,-0.14862928
+CompaniesPhilips transfers $900m of pension obligations,[0.04075214 0.02537888 0.933869  ],neutral,0.015373256
+Barclays in $13.75 million US settlement over mutual funds,[0.4857469  0.22678557 0.28746748],positive,0.25896132
+Standard Life stands tall amid pension reform,[0.6334739  0.01462977 0.35189638],positive,0.6188441
+AstraZeneca to Pay Inovio Up to $700 Million for Cancer Drug,[0.31607768 0.0132648  0.6706575 ],neutral,0.30281287
+Shire to buy NPS for $5.2 billion to boost rare disease drugs,[0.5271209  0.01062887 0.46225026],positive,0.516492
+Shell profit rises as company resist oil slump,[0.6433269  0.2519383  0.10473477],positive,0.39138857
+FTSE ends higher; 3i Group leads after strong earnings,[0.91526914 0.03902694 0.04570394],positive,0.8762422
+"FTSE falls to 3-month low on Greek debt concerns, easyJet skids",[0.01088322 0.96721864 0.02189821],negative,-0.9563354
+Companies Severn Trent expects costs hit from inflation,[0.06356529 0.8531439  0.08329081],negative,-0.78957856
+Glencore blames rivals for creating metals glut,[0.01078521 0.9489559  0.04025891],negative,-0.9381707
+U.K. Shares Extend Rebound for Second Day as EasyJet Surges,[0.7488167  0.20096417 0.05021912],positive,0.5478526
+PRESS: Pearson Set To Announce Sale Of Financial Times - Reuters,[0.03739965 0.01758944 0.94501096],neutral,0.01981021
+Tesco shares jump 6% after Christmas sales beat expectations,[0.90228075 0.0598403  0.03787898],positive,0.8424404
+"CompaniesNew Aggreko CEO to reshape business, strip costs",[0.11566543 0.02045535 0.86387926],neutral,0.095210075
+Verizon and AT&T accused of hurting rivals,[0.01495427 0.90202737 0.08301833],negative,-0.8870731
+Exclusive - Britain targets sale of half its RBS stake in two years: sources,[0.04730458 0.01539363 0.93730175],neutral,0.031910945
+U.S. Debt Lures Schroders as ECB Depresses Rates,[0.05908342 0.84984106 0.09107556],negative,-0.79075766
+"Saudi Aramco, Shell plan to break up Motiva, divide up assets",[0.05302753 0.02112596 0.92584646],neutral,0.03190157
+InterContinental Hotels Denies Reports of Starwood Merger Talks,[0.02884639 0.15673047 0.81442314],neutral,-0.12788408
+Standard Chartered faces fresh claims of Iran sanctions violations,[0.01949831 0.93895876 0.0415429 ],negative,-0.9194605
+Shire in talks with Baxalta shareholders,[0.07241771 0.01590768 0.9116746 ],neutral,0.05651004
+"SSE to Shut Coal-Fired Plant Amid Shift to Gas, Renewable Energy",[0.01832132 0.7411653  0.24051343],negative,-0.72284395
+Sharm el Sheikh: EasyJet axes all flights to Egypt's leading holiday resort,[0.39927152 0.01075795 0.5899705 ],neutral,0.38851357
+"UPDATE 1-Norway's Statoil shakes up top management, replaces CFO",[0.01583187 0.8268017  0.15736642],negative,-0.8109698
+Relief for Lewis as Tesco sees sales grow for first time in a year,[0.94891083 0.02099385 0.03009534],positive,0.927917
+Clydesdale and Yorkshire moves closer to independence,[0.30440432 0.02210582 0.67348987],neutral,0.2822985
+"European stocks hover near 3-week low, Dialog and BHP slump",[0.01097578 0.9279285  0.0610957 ],negative,-0.9169527
+Dave Lewis admits long road ahead for Tesco recovery,[0.2965642  0.01528461 0.6881512 ],neutral,0.28127956
+Tesco leads FTSE higher on Clubcard bid reports,[0.94019735 0.02465393 0.03514875],positive,0.91554344
+Why I'd Buy ARM Holdings plc And BHP Billiton plc Today,[0.04045792 0.01969314 0.93984896],neutral,0.020764781
+Admiral Group posts decline in 2014 earnings,[0.0118994  0.9742535  0.01384713],negative,-0.96235406
+"Britain's FTSE bounces back, Mondi and Barratt lead",[0.79782546 0.06551389 0.13666071],positive,0.73231155
+UPDATE 3-Barclays sells Italian branches to Mediobanca at a loss,[0.07438938 0.02076836 0.90484226],neutral,0.053621028
+Morrisons finance chief to fill gap as CEO leaves early,[0.01985948 0.67356193 0.3065786 ],negative,-0.65370244
+Sophos aims to raise $100m in London IPO,[0.25627008 0.00711861 0.73661125],neutral,0.24915147
+UK chip designer ARM hits a high after iPhone 6 boost,[0.9208077  0.03440002 0.04479225],positive,0.8864077
+Wolseley share price: Group updates on quarterly performance,[0.05085021 0.06612324 0.8830266 ],neutral,-0.015273035
+Rio Tinto announces long-delayed expansion of Mongolia mine,[0.10010391 0.08117045 0.81872565],neutral,0.01893346
+Shire rises as dry eye treatment sails through trial,[0.6875017  0.18534325 0.12715498],positive,0.50215846
+Doubts grow over GlaxoSmithKline's $6 bln capital return plan,[0.01531854 0.95795065 0.02673081],negative,-0.94263214
+Aviva weighs cash handout after beating profit forecast,[0.8555151  0.10118027 0.04330461],positive,0.75433487
+Shropshire and Mid Wales trains to be hit again in new strike by Arriva drivers,[0.01207342 0.95309335 0.03483317],negative,-0.94101995
+Greene King's third quarter sales boosted by festive season,[0.9465556  0.02020933 0.03323501],positive,0.9263463
+Big account wins keep ad group WPP at front of pack,[0.63836056 0.02345835 0.33818108],positive,0.6149022
+Worldpay readies for Â£6bn London float,[0.15585576 0.01123535 0.8329088 ],neutral,0.14462042
+"CEOs of BPM, UBI meet Italy econ minister as M&A talk heats up",[0.11658467 0.03785647 0.8455588 ],neutral,0.07872819
+"Should You Buy Jumbo Yielders British American Tobacco plc, Centrica PLC & John Wood Group PLC?",[0.06264205 0.01344723 0.92391074],neutral,0.04919482
+Dyson Wants to Create a Hair Dryer Revolution,[0.08049502 0.01162426 0.9078807 ],neutral,0.06887077
+Royal Dutch Shell to Buy BG Group for Nearly $70 Billion,[0.09074908 0.01101709 0.8982339 ],neutral,0.079731986
+"EXCLUSIVE-BP, China's CNPC to unveil oil alliance - sources",[0.16206577 0.00989953 0.82803464],neutral,0.15216625
+CORRECTED-Shire to buy Dyax for about $5.9 bln,[0.10925379 0.0157637  0.87498254],neutral,0.09349008
+BP set to cut hundreds of jobs at North Sea operations,[0.0092548  0.9642295  0.02651571],negative,-0.9549747
+BP's head of exploration Richard Herbert departs,[0.01898265 0.559483   0.4215344 ],negative,-0.54050034
+"UPDATE 1-Nomura, RBS must pay $806 mln in mortgage bond case-US judge",[0.03117906 0.6115473  0.35727367],negative,-0.5803682
+BRIEF-Legal & General's retirement business books 4 billion stg H1 sales,[0.03961322 0.01763875 0.94274807],neutral,0.021974467
+CompaniesRoyal Mail swerves new pricing regulations,[0.25473252 0.02327027 0.7219972 ],neutral,0.23146224
+JC Penney Cuts Pension Plan Obligation,[0.04318991 0.618121   0.33868906],negative,-0.57493114
+Domino's Pizza worker sacked after crude slur aimed at customer on order screen,[0.02844754 0.89744365 0.07410876],negative,-0.8689961
+"UPDATE 2-AB InBev launches SAB bid, to sell MillerCoors stake",[0.09267117 0.01349926 0.89382964],neutral,0.07917191
+Sales boost for new Morrisons chief David Potts as Tesco turnaround stalls,[0.93479633 0.02246685 0.04273688],positive,0.9123295
+France raises concerns over proposed LSE-Deutsche Boerse deal,[0.01956884 0.9258749  0.05455622],negative,-0.906306
+Genel Shares Plunge After Tony Hayward's Oil Explorer Cuts Crude Reserves at Core Field,[0.00880565 0.9652933  0.02590104],negative,-0.95648766
+LSE-Deutsche Boerse merger would signal end to exchange mega-deals,[0.03458137 0.4625127  0.5029059 ],neutral,-0.42793134
+Sports Direct boss Mike Ashley summoned to Westminster for questioning over the treatment of workers,[0.02297238 0.82955503 0.14747253],negative,-0.8065826
+Diageo receives reports from United Spirits on financial irregularities involving ...,[0.01333472 0.94783777 0.03882744],negative,-0.9345031
+Industry NewsWood Group wins multi-million dollar contract with BP,[0.78272605 0.02189498 0.19537897],positive,0.76083106
+"Centrica extends gas deals with Gazprom, Statoil",[0.8860487  0.01723589 0.09671543],positive,0.8688128
+Legal & General arm buys 50 pct stake in MediaCityUK in Manchester,[0.08384039 0.01268592 0.90347373],neutral,0.07115447
+Sainsbury's pressed to raise bid for Home Retail Group,[0.4017387  0.01181769 0.5864436 ],neutral,0.389921
+"Buffett's Berkshire builds Deere stake, dumps Exxon",[0.02528861 0.21246439 0.762247  ],neutral,-0.18717578
+"Aldi and Lidl expansion plans speed ahead as Tesco, Sainsbury's, Morrisons ...",[0.8598734  0.01005139 0.1300751 ],positive,0.84982204
+Analysis - Copper market may get a 2003-style supply shock from Glencore closures,[0.01347564 0.962784   0.02374039],negative,-0.94930834
+Tesco share price: Korean currency slide may hit Homeplus sale plans,[0.01150708 0.96821636 0.02027658],negative,-0.95670927
+AstraZeneca cancer drug may not be so fast getting to market,[0.1436583  0.01147161 0.8448701 ],neutral,0.13218668
+Tullow Oil Suspends Dividend Amid Oil Price Fall,[0.01139976 0.93882775 0.04977249],negative,-0.927428
+UPDATE 3-Barclays sells Italian branches to Mediobanca at a loss,[0.07438938 0.02076836 0.90484226],neutral,0.053621028
+Diageo Shares Surge on Report of Possible Takeover by Lemann,[0.5126009  0.42959192 0.05780713],positive,0.083008975
+"Aviva, Friends Life top forecasts ahead of 5.6 billion pound merger",[0.6157142  0.02305356 0.36123225],positive,0.5926606
+Friends Life lifts profits 38% and hikes divi ahead of proposed Aviva takeover,[0.57241464 0.37624326 0.05134213],positive,0.19617137
+Centrica suffers protest from shareholders over pay,[0.0150408  0.9526039  0.03235532],negative,-0.93756306
+Google Fiber to buy Webpass for big city Internet service,[0.27740332 0.00791527 0.7146814 ],neutral,0.26948807
+Is It Worth Investing In Tesco PLC And Prudential plc Now?,[0.06428485 0.01258629 0.9231288 ],neutral,0.051698565
+2 Turnaround Buys For 2016? BHP Billiton plc And Home Retail Group Plc,[0.08788813 0.01182222 0.90028965],neutral,0.07606591
+Halfords appoints Jonny Mason as new CFO,[0.03906776 0.03676916 0.9241631 ],neutral,0.002298605
+UPDATE 5-Buffett pays high price for Precision Castparts,[0.9321499  0.01583331 0.05201684],positive,0.91631657
+Experian says receives class actions related to T-Mobile breach,[0.01789439 0.8649853  0.11712034],negative,-0.8470909
+Market Report: Aviva tops the market as traders approve of its choice of Friends,[0.8959936  0.01751009 0.0864963 ],positive,0.87848353
+IAG closes in on Aer Lingus with increased offer,[0.8354916  0.03137595 0.13313246],positive,0.80411565
+GKN to buy Fokker Technologies for 706 mln euros,[0.08148784 0.01090768 0.9076045 ],neutral,0.07058016
+UPDATE 1-Shire steps up drive to get Baxalta talking after $30 bln bid,[0.8428604  0.01017797 0.14696161],positive,0.83268243
+Pearson in Talks to Sell Its Stake in the Economist Group,[0.03224516 0.02635122 0.9414037 ],neutral,0.005893938
+CompaniesTesco sheds Harris & Hoole coffee shops,[0.04081171 0.02870416 0.9304842 ],neutral,0.012107551
+REFILE-BP agrees UK gas pipeline stake sale to infrastructur,[0.5853084  0.00962017 0.4050714 ],positive,0.5756882
+"BHP Billiton slashes dividend, posts $5.67 billion net loss",[0.01112676 0.9657955  0.02307774],negative,-0.95466876
+"StanChart capital raising would be ""major surprise"" -investor Aberdeen",[0.069667   0.02695535 0.9033777 ],neutral,0.04271166
+Why I Would Put J Sainsbury plc In My Trolley Before Wm Morrison Supermarkets ...,[0.03851696 0.02891019 0.9325728 ],neutral,0.009606769
+Glaxo Sees Hope for Respiratory Drugs as Earnings Beat Estimates,[0.944104   0.01119579 0.04470021],positive,0.93290824
+Peroni and Grolsch put up for sale as AB InBev plans acquisition of SABMiller,[0.15584056 0.02123604 0.8229234 ],neutral,0.13460451
+BRIEF-Aviva aims to increase dividend pay-out ratio to 50 pct in 2017,[0.9344781  0.01089532 0.05462661],positive,0.9235828
+Direct Line rings up higher profit,[0.93103194 0.02745735 0.04151075],positive,0.9035746
+Jim Armitage: Barclays boss Jes Staley steps up to the plate with post-Leave positivity,[0.5827274  0.01308457 0.40418804],positive,0.5696428
+AstraZeneca sells rights to anaesthetics to South Africa's Aspen,[0.13346922 0.00843431 0.8580965 ],neutral,0.12503491
+GE to Sell Majority Stake in Bank BPH's Core Bank to Alior Bank,[0.0359286  0.01635657 0.94771487],neutral,0.019572027
+StanChart and RBS struggle in Bank of England stress tests,[0.0227333  0.94178593 0.03548082],negative,-0.91905266
+Antofagasta Sees Lower Cash Costs In 2015 - Quick Facts,[0.9261157  0.01578967 0.0580947 ],positive,0.910326
+NPS prospects dependent on drug approval,[0.03259856 0.0768371  0.89056426],neutral,-0.044238538
+Priceline's stock jumps to new high for the year after Barclays upgrade,[0.9197908  0.02697354 0.05323564],positive,0.89281726
+Tesco leads leap in FTSE 100; Marks & Spencer drops,[0.81597865 0.03855066 0.14547075],positive,0.777428
+Tesco UK personnel director quits supermarket,[0.01406334 0.85189074 0.13404599],negative,-0.8378274
+Royal Bank of Scotland fortunes ebbed and flowed under 3 chiefs,[0.0347679  0.90162724 0.06360484],negative,-0.8668593
+Exxon Beaumont CDU overhaul to be slowed by accident: sources,[0.02436183 0.6060751  0.369563  ],negative,-0.58171326
+TalkTalk hires BAE Systems to investigate cyber attack,[0.09770557 0.03329541 0.86899906],neutral,0.06441016
+Valeant Said to Name New CEO With Pearson Still Hospitalized,[0.04068086 0.01691513 0.94240403],neutral,0.023765732
+ITV to pursue takeover of Canada's Entertainment One: Bloomberg,[0.0599722  0.01478887 0.9252389 ],neutral,0.045183334
+Barclays appoints JPMorgan's Paul Compton as new COO,[0.03710197 0.02701177 0.93588626],neutral,0.010090195
+Rio Approves $5.3 Billion Oyu Tolgoi Copper Mine Expansion,[0.64750916 0.01785334 0.3346375 ],positive,0.62965584
+Weir Group sees continued fall in orders from oil and gas business,[0.00907489 0.97523654 0.01568856],negative,-0.96616167
+New BG Group CEO Helge Lund Starts Earlier Than Expected,[0.02556025 0.19523567 0.7792041 ],neutral,-0.16967541
+"BHP, Residents Brace as Cyclone Stan Nears Australian Coast",[0.0650195  0.84211856 0.09286195],negative,-0.7770991
+Glaxo's ViiV Healthcare Signs China Manufacturing Deal With Desano,[0.78213817 0.01543318 0.20242864],positive,0.766705
+"Barclays brands financier Amanda Staveley's $1bn claim as ""misconceived""",[0.01395106 0.943285   0.042764  ],negative,-0.9293339
+"GlaxoSmithKline rebound gathering pace, says outgoing CEO",[0.9280809  0.03152429 0.04039482],positive,0.8965566
+AB InBev to sell more SAB assets as seeks EU deal approval,[0.49090835 0.01020752 0.49888408],neutral,0.48070082
+UK government cuts stake in Lloyds to below 11 percent,[0.0113074 0.9468163 0.0418763],negative,-0.9355089
+Morrisons store closures: 900 jobs to go as 11 branches are closed due to ...,[0.00697416 0.9699804  0.02304538],negative,-0.96300626
+BP chairman defends CEO Bob Dudley's pay increase,[0.01810452 0.92636865 0.05552684],negative,-0.90826416
+Profits Fall 25% At Standard Chartered PLC: Should You Buy Or Sell?,[0.02441601 0.7734904  0.20209359],negative,-0.7490744
+SAB's Chairman Digs In With Board Divided on InBev Offer,[0.12134718 0.22962473 0.64902806],neutral,-0.10827755
+Aviva Fined $27 Million by U.K. Regulator Over Fee Failings,[0.01148329 0.9638302  0.02468649],negative,-0.95234686
+"Whitbread Profit Up As Sales Continue To Rise, Looking For New CEO",[0.9482754  0.02758374 0.02414088],positive,0.92069167
+Persimmon shares nudge higher as housebuilder sees strong 2014,[0.92538023 0.03687835 0.0377414 ],positive,0.8885019
+UPDATE 1-BG Group's record output limits oil price fallout,[0.0489713  0.8954871  0.05554156],negative,-0.84651583
+Standard Life share price: Group gets approval to hike stake in India JV,[0.7591725  0.01486186 0.22596557],positive,0.7443106
+Tesco Mobile is offering you cash back in exchange for looking at ads,[0.15166117 0.01095205 0.83738685],neutral,0.14070912
+"Wolseley profit up 18%, warns on revenue growth",[0.94577646 0.02720562 0.02701789],positive,0.9185708
+ITV share price: Group mulls takeover of Canada's Entertainment One,[0.02262886 0.14183235 0.8355388 ],neutral,-0.119203486
+Blueprint Receives FDA Nod To Proceed With Clinical Trials For 2 Drug ...,[0.8453161  0.00856052 0.14612338],positive,0.8367556
+SABMiller buys Meantime to quench thirst for craft beer,[0.32030323 0.0139809  0.6657158 ],neutral,0.30632234
+"Irish Said Chasing Standard Chartered, RBS as Brexit Vote Nears",[0.04364129 0.02908989 0.92726886],neutral,0.014551397
+"After Barclays and Bank of America, Citigroup has blockchain in sight",[0.07627535 0.01324234 0.91048235],neutral,0.063033015
+US says HSBC must do more to improve compliance,[0.88153994 0.01227707 0.10618302],positive,0.8692629
+Carnival Corporation and China Merchants Group Sign Memo of Understanding ...,[0.77352613 0.01761255 0.20886122],positive,0.7559136
+Staley to face challenges at Barclays,[0.1967471  0.3769238  0.42632908],neutral,-0.1801767
+GSK aims to file up to 20 new drugs for approval by 2020,[0.6091255 0.0081434 0.3827311],positive,0.60098207
+British American Tobacco accused of bribing senior politicians to sabotage ...,[0.01885411 0.9008953  0.08025069],negative,-0.8820412
+BT finance director Tony Chanmugam to step down,[0.0194252  0.32951045 0.6510644 ],neutral,-0.31008524
+AstraZeneca to cut costs but stays silent on M&A talk,[0.6614668  0.12959744 0.20893581],positive,0.53186935
+"Buffett's Berkshire builds Deere stake, dumps Exxon",[0.02528861 0.21246439 0.762247  ],neutral,-0.18717578
+Barclays Not Convinced by Gains in South African Stocks: Chart,[0.420593   0.33645782 0.24294911],positive,0.084135175
+5 Years After BP Spill: What's Changed in Offshore Drilling,[0.04070947 0.08366647 0.87562406],neutral,-0.042957008
+AstraZeneca Explores Potential Deal With Acerta for Cancer Drug,[0.70889646 0.00997249 0.28113103],positive,0.69892395
+Tesco sells half of stake in ecommerce site Lazada to Alibaba for Â£90m,[0.03345048 0.02308922 0.9434603 ],neutral,0.01036126
+"UK sells more of Lloyds bank stake, 12.5 billion pounds raised so far",[0.29931796 0.01371926 0.6869628 ],neutral,0.2855987
+Hargreaves Lansdown share price falls as costs mount - although pensions ...,[0.01375729 0.9662722  0.01997044],negative,-0.9525149
+Meggitt agrees to buy US aerospace component firm for $340 million,[0.30145982 0.01250831 0.6860319 ],neutral,0.28895152
+TRLPC - CRH backs Lafarge Holcim asset buy with 6.5 bln euro bridge loan,[0.82020473 0.02548278 0.15431242],positive,0.79472196
+Bloomberg buys Barclays' benchmarking business,[0.08635041 0.01205898 0.9015906 ],neutral,0.07429143
+"Barclays, Deutsche Bank Fight to Lift Profit Just Got Harder",[0.86825794 0.07248467 0.05925744],positive,0.79577327
+Royal Bank of Scotland chair hints Brexit turmoil will delay government sale,[0.01941205 0.8897161  0.09087184],negative,-0.87030405
+"Sainsbury's, Asda, Tesco and Morrisons will all cut petrol prices as oil falls ...",[0.01044768 0.93843955 0.05111269],negative,-0.92799187
+UPDATE 1-Berkshire applies to boost Wells Fargo stake above 10 pct,[0.9402252  0.01501988 0.04475493],positive,0.9252053
+Shire Sees Baxalta Deal Closing as Expected After New Rules,[0.08118866 0.05036832 0.868443  ],neutral,0.03082034
+AstraZeneca heart drug boosted by major clinical trial success,[0.9416033  0.01658201 0.0418147 ],positive,0.9250213
+Shire share price under pressure after $32bn Baxalta deal,[0.05067459 0.90862644 0.04069905],negative,-0.8579518
+UK WINNERS & LOSERS: Aviva And Friends Life Lead FTSE 100 Gainers,[0.16717285 0.01721524 0.81561196],neutral,0.1499576
+CompaniesGlencore's annual results beat forecasts,[0.90239763 0.07016291 0.02743946],positive,0.83223474
+Warren Buffett's Berkshire Hathaway quarterly profit jumps almost one third,[0.40943667 0.40516502 0.1853983 ],positive,0.004271656
+Pfizer to cut 120 jobs with closure of Cambridge R&D centre,[0.00989383 0.96975595 0.02035023],negative,-0.9598621
+Sainsbury's says to outperform rivals in tough market,[0.94049007 0.01264388 0.04686608],positive,0.9278462
+Centrica share price: British Gas under fire despite 5% price cut,[0.47312534 0.41043726 0.11643738],positive,0.06268808
+RBI surprises Street; Sensex pares gains after hitting mount 30k,[0.7808313  0.14397961 0.07518909],positive,0.63685167
+"London open: Taylor Wimpey and Ashtead drive markets higher, Barclays falls",[0.77425086 0.02350461 0.20224452],positive,0.75074625
+easyJet leads Britain's FTSE lower as global bond rout resumes,[0.01535854 0.94609284 0.03854857],negative,-0.93073434
+AB InBev to Sell SABMiller Stake in China's Snow Beer,[0.04531267 0.01755987 0.9371274 ],neutral,0.0277528
+Merkel's Government Said to Support Deutsche Boerse-LSE Merger,[0.1715325  0.00997725 0.8184902 ],neutral,0.16155525
+Tesco share price closes higher as two more directors leave grocer,[0.15634128 0.80751604 0.03614265],negative,-0.6511748
+Tesco sells half of stake in ecommerce site Lazada to Alibaba for Â£90m,[0.03345048 0.02308922 0.9434603 ],neutral,0.01036126
+UPDATE 5-Barclays Chairman McFarlane axes CEO to speed up strategic change,[0.5286241  0.01604074 0.4553351 ],positive,0.5125834
+"Berkshire Bought Apple Stake at $99.49 a Share, Filing Shows",[0.05041728 0.01345658 0.9361262 ],neutral,0.0369607
+Sainsbury CFO Rogers to Replace Home Retail CEO Walden,[0.02773136 0.0693244  0.9029442 ],neutral,-0.041593045
+UPDATE 1-Lloyds to cut 945 jobs as part of 3-year restructuring plan,[0.01017186 0.9689144  0.0209138 ],negative,-0.95874256
+Copper Prices up on Glencore Cuts to Zinc Supply,[0.2647155  0.69444805 0.0408364 ],negative,-0.42973256
+WPP's Sir Martin Sorrell is highest-paid FTSE 100 chief executive,[0.08166651 0.01573717 0.9025963 ],neutral,0.06592934
+Meggitt plc Crashes 20% On Profit Warning: Is It Now A Buy?,[0.04527076 0.91300523 0.04172394],negative,-0.8677345
+UK government cuts stake in Lloyds to below 11 pct,[0.01964417 0.934168   0.04618781],negative,-0.9145238
+Passengers rise at EasyJet and Aer Lingus,[0.79443794 0.0202419  0.18532008],positive,0.774196
+"Sharm el-Sheikh travel disruption: British Airways, EasyJet, Thomson and ...",[0.04213025 0.01255534 0.94531447],neutral,0.029574906
+"US STOCKS-Wall St rises on Berkshire deal, China stimulus hopes",[0.88609743 0.05754258 0.05635997],positive,0.82855487
+Prudential Financial quarterly profit rises 64 pct,[0.71221066 0.16243067 0.12535863],positive,0.54978
+US Seeks Huawei Records on Dealings With Sanctioned Nations,[0.02534203 0.06162902 0.91302896],neutral,-0.036286987
+Centrica urges policy overhaul as it warns of 'looming gap' in UK energy supplies,[0.03253877 0.9512541  0.01620714],negative,-0.91871536
+UPDATE 1-AstraZeneca potassium drug delayed by manufacturing snag,[0.01129948 0.9547053  0.03399519],negative,-0.9434058
+Activist Fund TCI Backs German Takeover of London Stock Exchange,[0.11970506 0.17564626 0.7046487 ],neutral,-0.0559412
+"Oil majors like Royal Dutch Shell, Chevron, BP fail to find reserves to counter ...",[0.05827197 0.5050768  0.43665117],negative,-0.44680485
+Four ex-Barclays bankers sentenced for roles in Libor rate-rigging scandal,[0.02114128 0.89797395 0.08088472],negative,-0.87683266
+AB InBev to sell more SAB assets as seeks EU deal approval,[0.49090835 0.01020752 0.49888408],neutral,0.48070082
+Berkshire applies to boost Wells Fargo stake above 10 percent,[0.7862783  0.00792555 0.20579617],positive,0.77835274
+Tesco leads leap in FTSE 100; Marks & Spencer drops,[0.81597865 0.03855066 0.14547075],positive,0.777428
+Balfour Beatty plc Set To Reinstate Dividend (And Rival National Grid plc And Centrica PLC Once More?),[0.05054175 0.03331056 0.91614765],neutral,0.017231196
+"UPDATE: CIB, Legal & General Sell Egyptian Life Joint Venture To AXA",[0.02846927 0.02231133 0.9492194 ],neutral,0.00615794
+BG Group appoints new CEO one month early,[0.02279825 0.11291158 0.8642902 ],neutral,-0.090113334
+"FDA panel backs Glaxo asthma drug for adults, not adolescents",[0.05169479 0.02461679 0.92368835],neutral,0.027077993
+Barclays set to name former JPMorgan banker Staley as new CEO,[0.03345969 0.0271694  0.93937093],neutral,0.006290281
+Kingfisher share price slides on cost to implement new strategy,[0.02007756 0.94453746 0.03538506],negative,-0.9244599
+"CompaniesTravis Perkins lifts dividend, earnings rise 15%",[0.8289628  0.11802418 0.05301304],positive,0.71093863
+Standard Chartered Shifts Emerging-Markets Strategy After Losses,[0.03974356 0.05254959 0.9077068 ],neutral,-0.012806028

@@ -1,0 +1,5 @@
+sentence,logit,prediction,sentiment_score
+2 Turnaround Buys For 2016? BHP Billiton plc And Home Retail Group Plc,[0.11169322 0.00900872 0.87929803],neutral,0.1026845
+"HSBC, Standard Chartered Lead Asia Bank Rout as U.K. Votes 'Out'",[0.1326007  0.7255085  0.14189082],negative,-0.5929078
+2 Turnaround Buys For 2016? BHP Billiton plc And Home Retail Group Plc,[0.11169322 0.00900872 0.87929803],neutral,0.1026845
+Aviva Fined $27 Million by U.K. Regulator Over Fee Failings,[0.01340046 0.960697   0.02590259],negative,-0.94729656
