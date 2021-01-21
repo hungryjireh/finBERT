@@ -71,8 +71,14 @@ We provide a script to quickly get sentiment predictions using FinBERT. Given a 
 
 Here's an example with the provided example text: `test.txt`. From the command line, simply run:
 ```bash
-python predict.py --text_path test.txt --output_dir output/ --model_path models/classifier_model/finbert-sentiment
+python3 predict.py --output_dir output/semeval2017_output --input_dir input/semeval_2017 --model_dir models/sentiment/
 ```
+
+Where:
+- `input_dir`: folder containing .csv files which you want to process
+- `model_dir`: folder containing models which you want to use to process .csv files
+- `output_dir`: folder containing output sentiment classification and sentiment score
+
 ## Disclaimer
 This is not an official Prosus product. It is the outcome of an intern research project in Prosus AI team.
 ### About Prosus 
