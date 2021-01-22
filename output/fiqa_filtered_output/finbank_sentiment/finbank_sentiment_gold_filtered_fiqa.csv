@@ -1,0 +1,90 @@
+sentence,logit,prediction,sentiment_score
+Primark racks up a happy Christmas after strong sales,[0.69749606 0.1596137  0.14289023],positive,0.5378823
+Royal Dutch Shell profit rises; dividend up 4%,[0.8909499  0.0764576  0.03259248],positive,0.8144923
+Tesco share price jumps as Q3 sales top estimates,[0.3454637  0.58093435 0.07360195],negative,-0.23547065
+Persimmon share price climbs on 23% rise in full-year revenue,[0.9144409  0.0434894  0.04206971],positive,0.8709515
+Reed Elsevier share price slides on underwhelming full-year results,[0.01882799 0.9598758  0.02129613],negative,-0.94104785
+Slump in Weir leads FTSE down from record high,[0.01639635 0.95682114 0.02678255],negative,-0.9404248
+REFILE-UPDATE 4-Britain's Lloyds to pay first dividend since rescue,[0.8706994  0.03619991 0.09310067],positive,0.8344995
+Meggitt share price tumbles as profit falls in 'challenging year',[0.00989133 0.97652787 0.01358075],negative,-0.96663654
+ARM Royalties Accelerate as Smartphone Market Regains Strength,[0.9228475  0.02291817 0.05423436],positive,0.89992934
+HSBC Hit by Fresh Details of Tax Evasion Claims,[0.13068712 0.66461015 0.2047027 ],negative,-0.53392303
+"UPDATE: Persimmon Profit Up Strongly, Outlook Positive",[0.93783396 0.03374606 0.02841998],positive,0.9040879
+Aviva Fined $27 Million by U.K. Regulator Over Fee Failings,[0.01340045 0.960697   0.02590258],negative,-0.94729656
+AstraZeneca's patent on asthma drug invalidated by US court,[0.01735696 0.945865   0.03677808],negative,-0.92850804
+Whitbread share price climbs on Q4 sales growth,[0.6446039  0.25828934 0.09710673],positive,0.38631457
+Auto Trader share price surges as company floats on LSE,[0.08250812 0.8598478  0.05764409],negative,-0.7773397
+UK WINNERS & LOSERS: Aviva And Friends Life Lead FTSE 100 Gainers,[0.560136   0.05683105 0.3830329 ],positive,0.50330496
+Sainsbury's says to outperform rivals in tough market,[0.8543727  0.08443102 0.06119632],positive,0.7699417
+UPDATE 3-Auto Trader shares leap in UK's biggest private equity-backed listing,[0.88551736 0.04826158 0.06622105],positive,0.8372558
+"London open: Taylor Wimpey and Ashtead drive markets higher, Barclays falls",[0.6387384  0.0535716  0.30768996],positive,0.5851668
+"U.K. Stocks Resume Gains to Rally to Record; CRH, Tullow Climb",[0.8130427  0.11756699 0.06939033],positive,0.6954757
+UK's FTSE has worst day so far in 2015 as BG and Prudential fall,[0.01887662 0.9286025  0.05252081],negative,-0.9097259
+"U.K. Stocks Little Changed Near Record as Barclays, Shell Fall",[0.06076026 0.8300822  0.10915757],negative,-0.7693219
+LONDON MORNING BRIEFING: HSBC And Standard Chartered Shares Rise,[0.7487716  0.13347894 0.11774942],positive,0.61529267
+City spirits sink after Diageo comes up short with sales slide,[0.02004835 0.9535467  0.02640486],negative,-0.9334983
+Rolls-Royce Wins $9.2 Billion Order From Emirates Airline,[0.91478735 0.04135933 0.04385344],positive,0.87342805
+Diageo sales disappoint as currency and comparatives leave bitter taste,[0.01563953 0.9619982  0.02236236],negative,-0.9463587
+Eli Lilly & Co. (LLY) Has Broken Out To A New High On AstraZeneca Collaboration,[0.9345336  0.02287826 0.04258817],positive,0.91165537
+"RPT-Old Mutual Q1 gross sales beat forecasts, up 18 pct",[0.9106853  0.06983733 0.01947739],positive,0.84084797
+Hargreaves Lansdown share price falls as costs mount - although pensions ...,[0.01076357 0.97426003 0.01497635],negative,-0.96349645
+"UPDATE 1-Nomura, RBS must pay $806 mln in mortgage bond case-US judge",[0.05321263 0.71673816 0.23004921],negative,-0.6635255
+"Britain's FTSE gains, Land Securities up after dividend hike",[0.7030509  0.21977723 0.07717188],positive,0.48327368
+"Britain's FTSE bounces back, Mondi and Barratt lead",[0.3910119  0.2584915  0.35049665],positive,0.1325204
+Old Mutual First-Quarter Sales Up 18% Buoyed by Emerging Markets,[0.9204555  0.05110156 0.02844299],positive,0.86935395
+S&P downgrades Barclays and RBS on government bailout fears,[0.01549176 0.9509813  0.03352688],negative,-0.93548954
+FTSE 100 flat; Standard Chartered leads risers,[0.33715895 0.28154212 0.38129893],neutral,0.055616826
+Johnson Matthey share price slumps as company posts full-year results,[0.00962098 0.97665673 0.01372229],negative,-0.9670358
+CompaniesActelion shares hit record on Shire takeover talk,[0.75326186 0.06104945 0.18568863],positive,0.6922124
+Miners Meltdown as BHP to Rio Tinto Sink in Commodities Rout,[0.02295268 0.9238503  0.05319709],negative,-0.9008976
+Buffett's Company Reports 37 Percent Drop in 2Q Earnings,[0.00982201 0.9729169  0.01726102],negative,-0.9630949
+Travis Perkins Hikes Dividend 20% As Profit And Revenue Rise,[0.21050067 0.7143451  0.07515422],negative,-0.50384444
+"Nine banks including Barclays, Citi, agree to pay $2 billion to settle forex ...",[0.64195234 0.01216822 0.34587947],positive,0.6297841
+Glencore slumps 25 pct as debt fears grow,[0.01127215 0.9741382  0.01458963],negative,-0.96286607
+Industry NewsMorrisons unveils which stores will close as 900 jobs face the axe,[0.03064065 0.8758399  0.09351946],negative,-0.8451992
+Glencore slumps 30 percent as debt fears grow,[0.01157779 0.9752192  0.01320311],negative,-0.9636414
+"FTSE 100 drops 2.5 pct on Glencore, metals price fears",[0.01146027 0.96841544 0.02012431],negative,-0.9569552
+Copper market may get a 2003-style supply shock from Glencore closures,[0.01374414 0.9594847  0.02677109],negative,-0.9457406
+Britain's FTSE forges ahead as Shire surges,[0.4990506  0.21800373 0.2829457 ],positive,0.28104687
+Standard Chartered's Shares Plunge 7% After Fitch Downgrade,[0.02511529 0.9487988  0.02608588],negative,-0.92368346
+BHP Billiton share price: Brazil to sue Samarco for Â£3.5bn,[0.01247994 0.9515392  0.0359808 ],negative,-0.93905926
+G4S slides on balance sheet worries,[0.05458517 0.85493606 0.09047876],negative,-0.8003509
+FDA approves AstraZeneca drug for advanced lung cancer,[0.72552305 0.03654188 0.23793504],positive,0.6889812
+AstraZeneca wins FDA approval for key new lung cancer pill,[0.86479783 0.04606686 0.08913536],positive,0.81873095
+Severn Trent share price rises as first half profit inches up as customer ...,[0.8926313  0.06039266 0.04697605],positive,0.8322386
+Lloyds to cut 945 jobs as part of three-year restructuring strategy,[0.01387412 0.9725406  0.01358525],negative,-0.9586665
+AstraZeneca to Buy ZS Pharma for $2.7 Billion,[0.02960318 0.01156024 0.95883656],neutral,0.018042948
+AstraZeneca Acquires ZS Pharma in $2.7 Billion Deal,[0.10445945 0.00679588 0.8887446 ],neutral,0.09766357
+AstraZeneca shares climb 3% as drug maker ups profits forecasts,[0.7697554  0.18229903 0.04794551],positive,0.5874564
+Peroni and Grolsch put up for sale as AB InBev plans acquisition of SABMiller,[0.06124056 0.02252483 0.9162346 ],neutral,0.038715728
+Compass Group says positive for year ahead,[0.73056597 0.11138824 0.15804577],positive,0.6191777
+US dollar wipes out sales gains for SABMiller,[0.03517782 0.94280535 0.02201676],negative,-0.9076275
+StanChart and RBS struggle in Bank of England stress tests,[0.02415468 0.9154527  0.06039254],negative,-0.89129806
+AstraZeneca chases Acerta to secure next cancer drug winner,[0.7551608  0.0281506  0.21668865],positive,0.7270102
+CompaniesTesco off to a bad start over Xmas â€“ Kantar,[0.07293348 0.7768194  0.1502471 ],negative,-0.7038859
+Why AstraZeneca plc & Dixons Carphone PLC Are Red-Hot Growth Stars!,[0.7314275  0.02272756 0.24584498],positive,0.70869994
+BBCN Bancorp to buy Wilshire Bancorp in $1 bln deal,[0.09396543 0.01503654 0.890998  ],neutral,0.078928895
+ITV share price jumps on report of Comcast's NBCUniversal bidding to takeover ...,[0.12906982 0.7990794  0.07185075],negative,-0.6700096
+Kingfisher share price slides on cost to implement new strategy,[0.02432467 0.9340958  0.04157948],negative,-0.90977114
+"European shares plunge, roiled by BHP and oil; hopes turn to ECB",[0.02071689 0.9450382  0.03424489],negative,-0.9243213
+Morrisons and Debenhams surprise City with Christmas bounce back,[0.5153986  0.07224362 0.41235784],positive,0.443155
+"Britain's FTSE falls back with Ashtead, commodities under pressure",[0.01464769 0.9558715  0.02948084],negative,-0.94122386
+Tesco shares jump 6% after Christmas sales beat expectations,[0.7958843  0.14994389 0.05417185],positive,0.6459404
+Philippines' San Miguel says to partner with Kirin if it bids for SABMiller's ...,[0.59579927 0.00712342 0.39707726],positive,0.58867586
+Shares in BAE Systems hit 10-month high on rating upgrade,[0.9228879  0.02187504 0.05523698],positive,0.9010129
+Tesco share price down as grocer faces SFO investigation outcome,[0.01570948 0.9590704  0.02522011],negative,-0.9433609
+InterContinental Hotels Group share price climbs on $1.5bn special dividend,[0.78241897 0.05167409 0.16590694],positive,0.7307449
+"BHP Billiton posts big loss, slashes dividend",[0.0160034  0.96566695 0.01832961],negative,-0.9496635
+BHP Billiton drags FTSE lower after slashing dividend,[0.01431983 0.9697921  0.015888  ],negative,-0.9554723
+"Rio Tinto swings to loss, drops dividend policy",[0.0159786  0.96396416 0.02005718],negative,-0.9479856
+Intertek swings to Â£347 mln loss on oil's slump,[0.01449776 0.97051126 0.0149911 ],negative,-0.9560135
+FTSE edges up as investors cheer Kingfisher results,[0.8308915  0.09306511 0.0760434 ],positive,0.7378264
+Britain's FTSE gets lift from Prudential results,[0.7461819  0.13450912 0.11930902],positive,0.61167276
+"WPP, World's Largest Ad Agency, Reports Strong 2015 Growth",[0.94748837 0.01573896 0.03677271],positive,0.9317494
+"European stocks hover near 3-week low, Dialog and BHP slump",[0.02075406 0.9271649  0.05208104],negative,-0.9064109
+Hargreaves Lansdown bucks weak markets to see assets rise 2.6 percent,[0.84175575 0.12000336 0.03824092],positive,0.7217524
+Royal Mail share price rallies amid positive broker comments,[0.7188392  0.22313908 0.05802166],positive,0.49570015
+Priceline's stock jumps to new high for the year after Barclays upgrade,[0.885454   0.05656073 0.05798521],positive,0.82889324
+CompaniesFresnillo shares jump 8% as silver price breaks $21,[0.55351245 0.40709624 0.03939134],positive,0.14641622
+Tesco share price tumbles after negative broker note,[0.01348325 0.9657887  0.02072811],negative,-0.9523055
+"Aviva, M&G suspend property funds as investors panic",[0.03267192 0.20582025 0.76150787],neutral,-0.17314833
